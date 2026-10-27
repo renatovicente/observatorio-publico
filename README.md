@@ -39,6 +39,10 @@ O usuário pode escolher outras ordens na lista de casos. Linha do tempo e bibli
 
 `node validate.mjs` verifica estrutura, links, identificadores, datas e conteúdo mínimo das fichas, além da paridade entre português e inglês. Execute também `node --check dist/app.js`. A interface oferece busca sem distinção de acentos, filtros de natureza/situação, ordenação, linha do tempo, biblioteca de fontes, links diretos, exportação JSON e impressão de fichas nos dois idiomas.
 
+## Atualização semanal
+
+Uma tarefa no ChatGPT Cloud está programada para segundas-feiras às 9h no fuso `America/Sao_Paulo`, a partir de 02/11/2026, usando a skill deste repositório e a conexão GitHub. Ela pesquisa e valida mudanças antes de publicá-las nas duas versões. O agendamento não altera as datas dos fatos nem garante novas informações em toda execução.
+
 ## Publicação no GitHub Pages
 
 O workflow `.github/workflows/pages.yml` gera e valida os dados em português e inglês, confere a classificação editorial e publica `dist/` a cada atualização de `main`. Também pode ser executado manualmente em Actions. A publicação depende de todas as validações passarem; traduções desatualizadas bloqueiam o build.
