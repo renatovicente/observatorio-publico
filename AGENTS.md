@@ -1,6 +1,6 @@
 # Manutenção do Observatório Público
 
-Para atualizar o acervo, use a skill `skills/atualizar-observatorio-flavio/SKILL.md` e suas referências. O destino canônico é este repositório (`renatovicente/observatorio-publico`, branch `main`) e o GitHub Pages em https://renatovicente.github.io/observatorio-publico/.
+Para atualizar o acervo, use a skill `skills/atualizar-observatorio-flavio/SKILL.md` e suas referências. O destino canônico é este repositório (`renatovicente/observatorio-publico`, branch `main`) e o GitHub Pages em https://obpub.org/.
 
 Mantenha português e inglês equivalentes, a paleta Noite e cobre e a ordem padrão decrescente por gravidade editorial. Inclua apenas ações, investigações e pedidos dirigidos contra Flávio Bolsonaro, com fontes, defesa, limitações e desfechos favoráveis ou desfavoráveis documentados. A faixa editorial não é conclusão de culpa.
 

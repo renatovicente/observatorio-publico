@@ -16,8 +16,8 @@ Preserve casos arquivados e decisões favoráveis ou reformadas dentro dos proce
 ## Identificar o projeto
 
 - Repositório canônico: `https://github.com/renatovicente/observatorio-publico`, branch `main`.
-- Site público: `https://renatovicente.github.io/observatorio-publico/`.
-- Inglês: `https://renatovicente.github.io/observatorio-publico/en/`.
+- Site público: `https://obpub.org/`.
+- Inglês: `https://obpub.org/en/`.
 - Skill portátil: `skills/atualizar-observatorio-flavio/` no mesmo repositório, incluindo referências e script de inspeção.
 - Fontes editáveis: `build-data.mjs`, `translations/en.mjs` e `dist/severity.mjs`; os dois JSONs de fichas são gerados.
 

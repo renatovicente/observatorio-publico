@@ -1,6 +1,6 @@
 # Observatório Público — Flávio Bolsonaro
 
-[Português](https://renatovicente.github.io/observatorio-publico/) · [English](https://renatovicente.github.io/observatorio-publico/en/)
+[Português](https://obpub.org/) · [English](https://obpub.org/en/)
 
 Public documentary archive in Portuguese and English, with sources, procedural outcomes, defense responses and an explicit editorial severity ordering.
 
@@ -47,4 +47,10 @@ Uma tarefa no ChatGPT Cloud está programada para segundas-feiras às 9h no fuso
 
 O workflow `.github/workflows/pages.yml` gera e valida os dados em português e inglês, confere a classificação editorial e publica `dist/` a cada atualização de `main`. Também pode ser executado manualmente em Actions. A publicação depende de todas as validações passarem; traduções desatualizadas bloqueiam o build.
 
-Nas configurações do repositório, a origem de Pages é **GitHub Actions**. Os links e recursos usam caminhos relativos para funcionar em `/observatorio-publico/` e na subpágina `/en/`. Este repositório contém o código e os dados necessários ao site público; os documentos externos continuam nos sites de origem.
+Nas configurações do repositório, a origem de Pages é **GitHub Actions**. Os links e recursos usam caminhos relativos para funcionar na raiz de `obpub.org`, na subpágina `/en/` e no endereço anterior do GitHub Pages. Este repositório contém o código e os dados necessários ao site público; os documentos externos continuam nos sites de origem.
+
+## Domínio próprio
+
+O domínio canônico é `obpub.org`, configurado em Settings → Pages. O DNS permanece na Hostinger, com quatro registros A em `@` (`185.199.108.153`, `185.199.109.153`, `185.199.110.153` e `185.199.111.153`) e um CNAME em `www` para `renatovicente.github.io`. A configuração de domínio fica no GitHub Pages; com publicação por Actions, um arquivo `CNAME` não é necessário.
+
+Preserve o domínio e a proteção HTTPS nas atualizações de conteúdo. A automação semanal carrega a skill deste repositório; links antigos de `renatovicente.github.io/observatorio-publico/` devem acompanhar o redirecionamento para o domínio próprio.
