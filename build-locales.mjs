@@ -1,11 +1,16 @@
 import assert from 'node:assert/strict';
 import {readFileSync, writeFileSync} from 'node:fs';
 import {createHash} from 'node:crypto';
-import translations from './translations/en.mjs';
+import flavioTranslations from './translations/en.mjs';
+import lulaTranslations from './translations/lula.en.mjs';
 
 const read=path=>JSON.parse(readFileSync(new URL(path,import.meta.url),'utf8'));
-const original=read('./dist/data.json');
-const reviewedHashes=read('./translations/en-source-hashes.json');
+for(const [person,source,output,hashes,translations] of [
+  ['Flávio','./dist/data.json','./dist/data.en.json','./translations/en-source-hashes.json',flavioTranslations],
+  ['Lula','./dist/data.lula.json','./dist/data.lula.en.json','./translations/lula-en-source-hashes.json',lulaTranslations]
+]){
+const original=read(source);
+const reviewedHashes=read(hashes);
 const hash=record=>createHash('sha256').update(JSON.stringify(record)).digest('hex');
 assert.equal(Object.keys(translations).length,original.length,'English translation count does not match the archive');
 assert.equal(Object.keys(reviewedHashes).length,original.length,'English source review count does not match the archive');
@@ -34,5 +39,7 @@ const english=original.map(record=>{
     })
   };
 });
-writeFileSync(new URL('./dist/data.en.json',import.meta.url),JSON.stringify(english,null,2)+'\n');
-console.log(`English: ${english.length} translated records; dates, IDs and source links preserved.`);
+writeFileSync(new URL(output,import.meta.url),JSON.stringify(english,null,2)+'\n');
+console.log(`${person} / English: ${english.length} translated records; dates, IDs and source links preserved.`);
+
+}

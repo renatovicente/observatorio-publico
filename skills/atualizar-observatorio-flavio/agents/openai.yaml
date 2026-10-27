@@ -1,4 +1,4 @@
 interface:
-  display_name: "Atualizar Observatório Flávio"
-  short_description: "Atualiza português, inglês e gravidade editorial do site"
-  default_prompt: "Use $atualizar-observatorio-flavio para pesquisar novas movimentações, manter as versões em português e inglês equivalentes e a ordenação por gravidade, validar e publicar o Observatório Público preservando seu nível de acesso."
+  display_name: "Atualizar Observatório Público"
+  short_description: "Mantém casos visíveis, gravidade, contagens e versões PT/EN"
+  default_prompt: "Use $atualizar-observatorio-flavio para pesquisar os dossiês no escopo solicitado, reclassificar cada andamento e desfecho, retirar encerrados da exibição, manter tons vermelhos e contagens por gravidade, atualizar português e inglês e publicar no GitHub Pages após validar e confirmar o deploy."

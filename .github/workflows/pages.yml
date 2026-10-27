@@ -33,7 +33,12 @@ jobs:
           node --check dist/app.js
           node --check dist/severity.mjs
           node --check translations/en.mjs
-          git diff --exit-code -- dist/data.json dist/data.en.json
+          node --check translations/lula.en.mjs
+          node --check dist/dossiers.mjs
+          node --check dist/case-status.mjs
+          node --check dist/lula-severity.mjs
+          node --test tests/*.test.mjs
+          git diff --exit-code -- dist/data.json dist/data.en.json dist/data.lula.json dist/data.lula.en.json
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website

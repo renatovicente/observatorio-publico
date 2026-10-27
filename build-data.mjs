@@ -42,4 +42,7 @@ add({"id": "santini-contas", "title": "Cobrança do ex-sócio da loja de chocola
 writeFileSync(new URL('./dist/data.json',import.meta.url),JSON.stringify(records,null,2)+'\n');
 console.log(JSON.stringify({records:records.length,sources:new Set(records.flatMap(r=>r.sources.map(s=>s.url))).size}));
 
+const {default:lula}=await import('./records/lula.mjs');
+writeFileSync(new URL('./dist/data.lula.json',import.meta.url),JSON.stringify(lula,null,2)+'\n');
+console.log(`Lula: ${lula.length} records.`);
 await import('./build-locales.mjs');

@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "lula-triplex-guaruja",
+    "title": "Tríplex do Guarujá e armazenamento do acervo presidencial",
+    "category": "Criminal",
+    "court": "Justiça Federal · TRF4 · STJ · STF",
+    "state": "encerrado",
+    "status": "Tríplex arquivado por prescrição em 2022",
+    "role": "Ex-réu; condenações anuladas",
+    "updated": "2026-06-25",
+    "identifier": "PR 5046512-94.2016.4.04.7000 · DF 1070239-94.2021.4.01.3400 (referência 1028899-73.2021.4.01.3400)",
+    "summary": "O MPF acusou Lula de receber vantagens da OAS por meio de um tríplex e suas reformas. As condenações foram anuladas em 2021 e a ação foi arquivada por prescrição em janeiro de 2022.",
+    "details": "O STJ havia fixado pena de 8 anos, 10 meses e 20 dias em 2019, posteriormente anulada. A decisão de arquivamento também preservou a absolvição anterior da imputação sobre armazenamento do acervo presidencial, já definitiva para a acusação. Em junho de 2026, foi noticiada a devolução ao DF de uma discussão sobre o dinheiro do leilão do imóvel.",
+    "defense": "Lula negou que o tríplex fosse seu e que tivesse recebido propina. Ao celebrar o arquivamento, seus advogados afirmaram que o caso fora usado para persegui-lo politicamente.",
+    "limit": "A anulação e a prescrição do núcleo do tríplex não são absolvição de mérito. A absolvição relativa ao acervo é distinta. A discussão patrimonial noticiada em 2026 não comprova reabertura da ação penal.",
+    "events": [
+      {
+        "date": "2019-04-23",
+        "title": "Pena reduzida pelo STJ",
+        "text": "O tribunal fixou 8 anos, 10 meses e 20 dias; essa condenação foi posteriormente anulada."
+      },
+      {
+        "date": "2021-04-15",
+        "title": "Anulação confirmada",
+        "text": "O STF confirmou a incompetência da Justiça Federal de Curitiba."
+      },
+      {
+        "date": "2022-01-27",
+        "title": "Arquivamento determinado",
+        "text": "A Justiça Federal do DF reconheceu a prescrição do núcleo do tríplex e preservou a absolvição relativa ao acervo."
+      },
+      {
+        "date": "2026-06-25",
+        "title": "Questão patrimonial posterior",
+        "text": "A Veja noticiou a remessa ao DF da discussão sobre os recursos do leilão, sem retomada criminal contra Lula."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "STJ",
+        "date": "2019-04-23",
+        "title": "Quinta Turma reduz pena no caso do tríplex",
+        "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2019/Quinta-Turma-reduz-pena-do-ex-presidente-Lula-para-oito-anos-e-dez-meses.aspx",
+        "type": "official",
+        "note": "Registro histórico; condenação anulada em 2021."
+      },
+      {
+        "publisher": "STF",
+        "date": "2021-04-15",
+        "title": "Plenário confirma anulação por incompetência de Curitiba",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "Justiça Federal do DF",
+        "date": "2022-01-27",
+        "title": "Decisão terminativa: prescrição e preservação da absolvição do acervo",
+        "url": "https://www.migalhas.com.br/arquivos/2022/1/A1321D59CAC7E2_acao.pdf",
+        "type": "press",
+        "note": "Documento judicial reproduzido pelo Migalhas; assinatura de 27/01/2022. Dispositivo nas páginas 10–11 do PDF."
+      },
+      {
+        "publisher": "Reuters / UOL",
+        "date": "2022-01-28",
+        "title": "Arquivamento do tríplex e resposta da defesa",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/01/28/justica-federal-arquiva-acao-contra-lula-sobre-triplex-no-guaruja.htm",
+        "type": "press",
+        "note": "Reportagem de Lisandra Paraguassu."
+      },
+      {
+        "publisher": "Veja",
+        "date": "2026-06-25",
+        "title": "Disputa sobre o dinheiro do leilão retorna à primeira instância",
+        "url": "https://veja.abril.com.br/brasil/o-impasse-do-dinheiro-arrecado-com-leilao-do-triplex-do-guaruja/",
+        "type": "press",
+        "note": "Reportagem de Daniel Gullino; questão patrimonial posterior ao encerramento penal."
+      }
+    ]
+  },
+  {
+    "id": "lula-sitio-atibaia",
+    "title": "Reformas no sítio de Atibaia",
+    "category": "Criminal",
+    "court": "Justiça Federal · TRF4 · TRF1 · STF",
+    "state": "encerrado",
+    "status": "Punibilidade extinta; recurso do MPF negado em 2025",
+    "role": "Ex-réu; condenações anuladas",
+    "updated": "2025-08-08",
+    "identifier": "PR 5021365-32.2017.4.04.7000 · DF/TRF1 1032252-24.2021.4.01.3400",
+    "summary": "Lula foi acusado de corrupção e lavagem por reformas custeadas por empreiteiras no sítio que frequentava. Após a anulação das condenações, a Justiça do DF reconheceu prescrição em 2021; o TRF1 manteve o encerramento em 2025.",
+    "details": "A condenação de 2019, mantida pelo TRF4 em 2020, perdeu validade em 2021. A Justiça do DF rejeitou a denúncia ratificada e extinguiu a punibilidade de Lula. A rejeição também alcançou imputações já absolvidas ou repetidas em outra ação. Em julho de 2025, a 10ª Turma do TRF1 negou o recurso do MPF; o relatório do acórdão foi reproduzido no DJEN de agosto.",
+    "defense": "A defesa negou as acusações e afirmou que a decisão de 2021 reforçava sua alegação de perseguição judicial. Não foi localizada manifestação específica sobre o recurso julgado em 2025.",
+    "limit": "A condenação anulada não permanece válida. Prescrição, rejeição da denúncia e preservação de absolvições anteriores são fundamentos distintos. Não foi confirmada diretamente a certidão de trânsito em julgado do julgamento de 2025.",
+    "events": [
+      {
+        "date": "2020-05-06",
+        "title": "TRF4 mantém condenação então vigente",
+        "text": "O tribunal negou embargos; essa condenação foi posteriormente anulada."
+      },
+      {
+        "date": "2021-04-15",
+        "title": "Anulação confirmada",
+        "text": "O STF confirmou que Curitiba não tinha competência para julgar o caso."
+      },
+      {
+        "date": "2021-08-21",
+        "title": "Denúncia rejeitada no DF",
+        "text": "A juíza rejeitou a ratificação e reconheceu a prescrição em relação a Lula."
+      },
+      {
+        "date": "2025-07-30",
+        "title": "Recurso negado, segundo notícia",
+        "text": "O Jornal de Brasília informou que o TRF1 manteve o encerramento. A data é a da reportagem."
+      },
+      {
+        "date": "2025-08-08",
+        "title": "Relatório do acórdão publicado",
+        "text": "A reprodução do DJEN detalha os fundamentos da decisão recorrida, inclusive prescrição, absolvições anteriores e litispendência."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TRF4",
+        "date": "2020-05-06",
+        "title": "Tribunal mantém condenação de Atibaia antes da anulação",
+        "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=15174",
+        "type": "official",
+        "note": "Registro histórico; não representa condenação atualmente válida."
+      },
+      {
+        "publisher": "STF",
+        "date": "2021-04-15",
+        "title": "Plenário confirma anulação por incompetência de Curitiba",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "Folha de S.Paulo",
+        "date": "2021-08-22",
+        "title": "Justiça do DF rejeita denúncia e declara extinta a punibilidade",
+        "url": "https://www1.folha.uol.com.br/poder/2021/08/juiza-de-brasilia-rejeita-denuncia-contra-lula-no-caso-do-sitio-de-atibaia-e-declara-extinta-punicao.shtml",
+        "type": "press",
+        "note": "Reportagem de Marcelo Rocha; decisão de 21/08/2021 e resposta de Cristiano Zanin."
+      },
+      {
+        "publisher": "Jornal de Brasília",
+        "date": "2025-07-30",
+        "title": "TRF1 rejeita recurso e mantém encerrada a ação",
+        "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/trf-1-rejeita-recurso-do-mpf-e-mantem-encerrada-acao-do-sitio-de-atibaia-contra-lula/",
+        "type": "press",
+        "note": "Reportagem de Mateus Souza. A data é da notícia, não uma data de julgamento inferida."
+      },
+      {
+        "publisher": "TRF1 · DJEN",
+        "date": "2025-08-08",
+        "title": "Relatório do recurso em sentido estrito no caso de Atibaia",
+        "url": "https://www.escavador.com/diarios/6103676/TRF1/diario-de-justica-eletronico-nacional-%28djen%29/2025-08-08?page=7",
+        "type": "press",
+        "note": "Reprodução do diário no Escavador, página 7; acesso ao PDF integral exigiu login. Parte dos números é mascarada pelo serviço."
+      }
+    ]
+  },
+  {
+    "id": "lula-instituto-terreno",
+    "title": "Terreno para o Instituto Lula e apartamento vizinho",
+    "category": "Criminal",
+    "court": "Justiça Federal do PR e do DF · STF",
+    "state": "encerrado",
+    "status": "Ação penal trancada em 2023",
+    "role": "Ex-réu; ação encerrada",
+    "updated": "2023-02-17",
+    "identifier": "PR 5063130-17.2016.4.04.7000 · DF 1033115-77.2021.4.01.3400 · STF Rcl 43.007",
+    "summary": "Lula tornou-se réu em 2016 pela acusação de receber vantagens da Odebrecht por meio de um terreno destinado ao instituto e de um apartamento vizinho à sua residência. O STF trancou a ação em 2023.",
+    "details": "Os dois imóveis integravam a mesma ação por corrupção e lavagem. O terreno não chegou a ser ocupado pelo Instituto Lula. Após a anulação dos atos de Curitiba em 2021, o processo foi suspenso. Em 17/02/2023, Ricardo Lewandowski encerrou a persecução por falta de justa causa após a invalidação dos elementos provenientes do acordo de leniência da Odebrecht.",
+    "defense": "A defesa negou que Lula tivesse recebido propriedade ou posse dos imóveis como vantagem por contratos da Petrobras. Também contestou a validade das provas e pediu o trancamento.",
+    "limit": "O trancamento por falta de justa causa é distinto de absolvição após julgamento de mérito. A ficha reúne terreno e apartamento porque estavam na mesma ação; não atribui a Lula a totalidade dos valores investigados contra terceiros.",
+    "events": [
+      {
+        "date": "2016-12-19",
+        "title": "Denúncia recebida",
+        "text": "Lula passou a responder à ação que reunia terreno e apartamento."
+      },
+      {
+        "date": "2021-09-14",
+        "title": "Tramitação suspensa",
+        "text": "O STF suspendeu o processo enquanto examinava o uso de provas invalidadas."
+      },
+      {
+        "date": "2023-02-17",
+        "title": "Ação trancada",
+        "text": "Lewandowski determinou o encerramento por falta de justa causa."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Reuters / Exame",
+        "date": "2016-12-19",
+        "title": "Recebimento da denúncia sobre terreno e apartamento",
+        "url": "https://exame.com/brasil/moro-aceita-denuncia-e-lula-se-torna-reu-pela-4a-vez-na-lava-jato/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2017-09-04",
+        "title": "Depoimento no caso dos imóveis e resposta da defesa",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2017/09/04/lula-acabou-aceitando-terreno-para-instituto-diz-odebrecht-defesa-nega.amp.htm",
+        "type": "press",
+        "note": "A reportagem informa que o instituto nunca ocupou o terreno e reproduz a nota da defesa."
+      },
+      {
+        "publisher": "STF",
+        "date": "2023-02-17",
+        "title": "Decisão que tranca as ações da sede e das doações ao Instituto Lula",
+        "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/RCL43007DECISaODOAESINTITUITOLULA.pdf",
+        "type": "official",
+        "note": "Rcl 43.007; dispositivo nas páginas 17–18 do PDF."
+      },
+      {
+        "publisher": "STF",
+        "date": "2023-02-22",
+        "title": "STF informa encerramento de três ações contra Lula",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-encerra-tres-acoes-penais-contra-o-presidente-lula/",
+        "type": "official",
+        "note": "Notícia sobre decisões de 17/02/2023; esta ficha trata somente da ação dos imóveis."
+      }
+    ]
+  },
+  {
+    "id": "lula-instituto-doacoes-odebrecht",
+    "title": "Doações da Odebrecht ao Instituto Lula",
+    "category": "Criminal",
+    "court": "Justiça Federal do PR e do DF · STF",
+    "state": "encerrado",
+    "status": "Ação penal trancada em 2023",
+    "role": "Ex-réu; ação encerrada",
+    "updated": "2023-02-17",
+    "identifier": "PR 5044305-83.2020.4.04.7000 · DF 1017822-67.2021.4.01.3400 · STF Rcl 43.007",
+    "summary": "Lula foi processado por suposta lavagem de R$ 4 milhões repassados pela Odebrecht ao instituto em 2013 e 2014. O STF trancou a ação em fevereiro de 2023.",
+    "details": "A denúncia recebida em outubro de 2020 alegava que quatro doações encobriam vantagens ilícitas. A ação foi transferida de Curitiba e suspensa em 2021. O encerramento de 2023 decorreu da ausência de suporte probatório válido após a invalidação dos elementos oriundos do acordo de leniência da empreiteira.",
+    "defense": "Cristiano Zanin afirmou que as doações eram lícitas, tinham recibos e haviam sido contabilizadas. A defesa pediu o encerramento após a exclusão das provas.",
+    "limit": "A ação foi efetivamente instaurada contra Lula, embora os repasses tivessem como destinatária a entidade. O trancamento não é condenação nem absolvição após julgamento de mérito. Este caso é distinto das doações da empresa ARG relacionadas à Guiné Equatorial.",
+    "events": [
+      {
+        "date": "2020-10-23",
+        "title": "Denúncia recebida",
+        "text": "A Justiça Federal de Curitiba instaurou a ação por lavagem de dinheiro."
+      },
+      {
+        "date": "2021-09-14",
+        "title": "Processo suspenso",
+        "text": "O STF suspendeu a tramitação no DF."
+      },
+      {
+        "date": "2023-02-17",
+        "title": "Trancamento determinado",
+        "text": "O STF encerrou a ação por falta de justa causa decorrente da invalidade das provas."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Justiça Federal do PR",
+        "date": "2020-10-23",
+        "title": "Decisão de recebimento da denúncia sobre doações",
+        "url": "https://www.migalhas.com.br/arquivos/2020/10/a4b32218f78496_lula.pdf",
+        "type": "press",
+        "note": "Documento judicial reproduzido pelo Migalhas; ação 5044305-83.2020.4.04.7000."
+      },
+      {
+        "publisher": "O Estado de S. Paulo / Biblioteca do Senado",
+        "date": "2020-09-15",
+        "title": "Acusação sobre doações e contestação da defesa",
+        "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/587059/noticia.html?isAllowed=y&sequence=1",
+        "type": "press",
+        "note": "Reportagem de Paulo Roberto Netto, preservada no acervo do Senado."
+      },
+      {
+        "publisher": "STF",
+        "date": "2023-02-17",
+        "title": "Decisão que tranca as ações da sede e das doações ao Instituto Lula",
+        "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/RCL43007DECISaODOAESINTITUITOLULA.pdf",
+        "type": "official",
+        "note": "Rcl 43.007; dispositivo nas páginas 17–18 do PDF."
+      },
+      {
+        "publisher": "STF",
+        "date": "2023-02-22",
+        "title": "Notícia oficial do encerramento das ações",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-encerra-tres-acoes-penais-contra-o-presidente-lula/",
+        "type": "official",
+        "note": "A notícia abrange três ações; esta ficha corresponde apenas às doações da Odebrecht."
+      }
+    ]
+  },
+  {
+    "id": "lula-zelotes-mp471",
+    "title": "Zelotes — incentivos automotivos da MP 471",
+    "category": "Criminal",
+    "court": "10ª Vara Federal Criminal do DF",
+    "state": "encerrado",
+    "status": "Absolvição por insuficiência de provas",
+    "role": "Réu absolvido",
+    "updated": "2021-06-21",
+    "summary": "Lula respondeu por corrupção passiva ligada à MP 471/2009. Foi absolvido em 21/06/2021, após o próprio MPF concluir que faltavam provas para condená-lo.",
+    "details": "A acusação associava a prorrogação de incentivos a montadoras a um suposto repasse de R$ 6 milhões ao PT. A sentença não encontrou demonstração suficiente de participação de Lula e aplicou o art. 386, VII, do CPP.",
+    "defense": "A defesa também pediu nulidade da denúncia, alegando uso de elementos considerados ilícitos pelo STF; esse pedido ficou prejudicado pela absolvição.",
+    "limit": "Esta ação é distinta do caso Gripen/MP 627. A sentença determina arquivamento após o trânsito em julgado, mas não certifica que ele já ocorreu.",
+    "events": [
+      {
+        "date": "2017-09-19",
+        "title": "Denúncia recebida",
+        "text": "Lula passou a responder à ação penal."
+      },
+      {
+        "date": "2021-06-21",
+        "title": "Absolvição",
+        "text": "Sentença aplica o art. 386, VII, do CPP."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Justiça Federal do DF / Migalhas",
+        "date": "2021-06-21",
+        "title": "Sentença da ação sobre a MP 471",
+        "url": "https://www.migalhas.com.br/arquivos/2021/6/9BEC81E2BCD070_zelotes.pdf",
+        "type": "press",
+        "note": "Documento judicial reproduzido por terceiro; fundamentação e dispositivo consultados."
+      },
+      {
+        "publisher": "Exame / Estadão Conteúdo",
+        "date": "2021-06-21",
+        "title": "Absolvição de Lula no caso dos incentivos automotivos",
+        "url": "https://exame.com/brasil/lula-e-absolvido-em-processo-por-corrupcao-na-operacao-zelotes/",
+        "type": "press",
+        "note": ""
+      }
+    ],
+    "identifier": "Ação Penal 1018986-72.2018.4.01.3400"
+  },
+  {
+    "id": "lula-zelotes-gripen-mp627",
+    "title": "Zelotes — caças Gripen e MP 627",
+    "category": "Criminal",
+    "court": "STF · 10ª Vara Federal Criminal do DF",
+    "state": "encerrado",
+    "status": "Ação trancada pelo STF em 2023",
+    "role": "Réu; ação trancada",
+    "updated": "2023-02-22",
+    "summary": "Lula foi acusado de tráfico de influência, lavagem e organização criminosa em ação sobre caças Gripen e a MP 627/2013. O STF encerrou o processo em fevereiro de 2023.",
+    "details": "Ricardo Lewandowski suspendeu a ação em 2022 e concedeu habeas corpus de ofício em 17/02/2023. Apontou falta de justa causa e comprometimento dos elementos utilizados, no contexto da atuação conjunta com a força-tarefa de Curitiba.",
+    "defense": "A defesa pediu o trancamento e questionou a validade das provas e a atuação dos investigadores.",
+    "limit": "Trancamento por vícios e falta de justa causa não equivale a absolvição após julgamento de mérito. A MP 471 é outra ação.",
+    "events": [
+      {
+        "date": "2022-03-02",
+        "title": "Suspensão",
+        "text": "STF suspende a tramitação."
+      },
+      {
+        "date": "2023-02-17",
+        "title": "Trancamento",
+        "text": "Lewandowski encerra a ação penal."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "STF",
+        "date": "2023-02-17",
+        "title": "Decisão na Rcl 43.007 sobre o caso Gripen",
+        "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/RCL43007DECISaOCasodosCaasGripen..pdf",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "STF",
+        "date": "2023-02-22",
+        "title": "STF comunica encerramento de três ações contra Lula",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-encerra-tres-acoes-penais-contra-o-presidente-lula/",
+        "type": "official",
+        "note": "Notícia também aborda duas ações do Instituto Lula, tratadas em fichas próprias."
+      }
+    ],
+    "identifier": "STF Rcl 43.007 · Ação Penal 1016027-94.2019.4.01.3400"
+  },
+  {
+    "id": "lula-obstrucao-cervero",
+    "title": "Obstrução da Justiça — depoimentos de Nestor Cerveró",
+    "category": "Criminal",
+    "court": "10ª Vara Federal do DF · TRF1",
+    "state": "encerrado",
+    "status": "Absolvição mantida em recurso",
+    "role": "Réu absolvido",
+    "updated": "2019-07-01",
+    "summary": "Lula respondeu à acusação de participar de uma tentativa de impedir a colaboração de Nestor Cerveró. Foi absolvido em 2018; o TRF1 manteve a decisão em 2019.",
+    "details": "A sentença discutiu falhas nas provas e nas versões dos colaboradores. O dispositivo absolveu com base no art. 386, III, do CPP: o fato não constitui infração penal.",
+    "defense": "A defesa pediu absolvição, questionou a acusação e a utilização de delações. O MPF também havia requerido sua absolvição em primeira instância.",
+    "limit": "O fundamento literal da sentença não deve ser substituído pelo rótulo genérico de falta de provas. Não foi consultada certidão de trânsito em julgado.",
+    "events": [
+      {
+        "date": "2018-07-12",
+        "title": "Absolvição",
+        "text": "Sentença afasta a acusação contra Lula."
+      },
+      {
+        "date": "2019-07-01",
+        "title": "Decisão mantida",
+        "text": "A Quarta Turma do TRF1 mantém a absolvição."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Justiça Federal do DF / Migalhas",
+        "date": "2018-07-12",
+        "title": "Sentença no caso Cerveró",
+        "url": "https://www.migalhas.com.br/arquivos/2018/7/art20180712-10.pdf",
+        "type": "press",
+        "note": "Cópia integral da sentença; dispositivo na página 43."
+      },
+      {
+        "publisher": "Migalhas",
+        "date": "2018-07-12",
+        "title": "Justiça absolve envolvidos no caso Cerveró",
+        "url": "https://www.migalhas.com.br/quentes/283634/justica-absolve-envolvidos-no-caso-cervero/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Veja / Robson Bonin",
+        "date": "2019-07-01",
+        "title": "TRF1 mantém absolvição no caso Cerveró",
+        "url": "https://veja.abril.com.br/coluna/radar/trf1-mantem-absolvicao-de-lula-e-delcidio-no-caso-cervero/",
+        "type": "press",
+        "note": ""
+      }
+    ],
+    "identifier": "Ação Penal 0042543-76.2016.4.01.3400"
+  },
+  {
+    "id": "lula-organizacao-criminosa-pt",
+    "title": "Acusação de organização criminosa — “quadrilhão do PT”",
+    "category": "Criminal",
+    "court": "12ª Vara Federal do DF",
+    "state": "encerrado",
+    "status": "Absolvição; acusação repetida rejeitada",
+    "role": "Réu absolvido; denunciado em peça posterior rejeitada",
+    "updated": "2020-11-21",
+    "summary": "Lula foi acusado de integrar uma organização criminosa ligada à corrupção na Petrobras. A Justiça o absolveu em dezembro de 2019; outra denúncia sobre os mesmos fatos foi rejeitada em 2020.",
+    "details": "A absolvição sumária acompanhou pedido do MPF. Em 20/11/2020, o juiz reconheceu que a acusação repetia objeto já julgado definitivamente.",
+    "defense": "A defesa contestou a materialidade da acusação e afirmou haver uso político das ações.",
+    "limit": "As duas decisões são reunidas pelo mesmo núcleo factual; absolvição e rejeição por coisa julgada são fundamentos distintos.",
+    "events": [
+      {
+        "date": "2019-12-04",
+        "title": "Absolvição sumária",
+        "text": "A Justiça absolve Lula da acusação de organização criminosa."
+      },
+      {
+        "date": "2020-11-20",
+        "title": "Denúncia repetida rejeitada",
+        "text": "Juízo reconhece a coisa julgada."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Reuters / UOL",
+        "date": "2019-12-05",
+        "title": "Justiça absolve Lula e Dilma no chamado quadrilhão do PT",
+        "url": "https://economia.uol.com.br/noticias/reuters/2019/12/05/justica-federal-do-df-absolve-lula-e-dilma-no-processo-do-chamado-quadrilhao-do-pt.amp.htm",
+        "type": "press",
+        "note": "Reportagem de Ricardo Brito."
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2020-11-21",
+        "title": "Juiz rejeita denúncia por acusação já julgada",
+        "url": "https://www.cnnbrasil.com.br/politica/juiz-rejeita-denuncia-contra-lula-dilma-e-ex-ministros-petistas/",
+        "type": "press",
+        "note": "Reportagem de Anna Satie; confirma trânsito em julgado da absolvição anterior."
+      }
+    ]
+  },
+  {
+    "id": "lula-janus-angola",
+    "title": "Janus I — contratos da Odebrecht em Angola",
+    "category": "Criminal",
+    "court": "10ª Vara Federal do DF · TRF1",
+    "state": "encerrado",
+    "status": "Ação trancada por denúncia inepta",
+    "role": "Réu; ação trancada em relação a Lula",
+    "updated": "2020-09-04",
+    "summary": "O MPF acusou Lula de favorecer financiamentos do BNDES para a Odebrecht em Angola em troca de vantagens. O TRF1 trancou a ação contra ele em setembro de 2020.",
+    "details": "A acusação incluía pagamentos por contratos da Exergia e palestras. A Quarta Turma considerou que a denúncia não individualizava adequadamente os fatos e atos atribuídos a Lula.",
+    "defense": "A defesa obteve habeas corpus argumentando inépcia da denúncia.",
+    "limit": "Trancamento por inépcia não é absolvição de mérito. O benefício aqui documentado é o de Lula, não a situação processual de todos os demais acusados.",
+    "events": [
+      {
+        "date": "2016-10-10",
+        "title": "Acusação divulgada",
+        "text": "MPF anuncia denúncia contra Lula e outros investigados."
+      },
+      {
+        "date": "2020-09-01",
+        "title": "Habeas corpus concedido",
+        "text": "TRF1 determina o trancamento; publicação em 04/09."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "MPF",
+        "date": "2016-10-10",
+        "title": "MPF apresenta acusação sobre obras em Angola",
+        "url": "https://combateacorrupcao.mpf.mp.br/feeder_novo/combate-a-corrupcao/23f1c5692b8be08c0281554bc0eaf4c9",
+        "type": "official",
+        "note": "Fonte acusatória histórica. Data da divulgação confirmada pela Agência Brasil; página sem carimbo editorial."
+      },
+      {
+        "publisher": "TRF1",
+        "date": "2020-09-04",
+        "title": "Ementa do HC 1024917-71.2018.4.01.0000",
+        "url": "https://revista.trf1.jus.br/trf1/article/download/262/161",
+        "type": "official",
+        "note": "Revista do TRF1, ano 32, nº 3, pp. 75–77; data corresponde à publicação no PJe indicada na ementa."
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2020-09-01",
+        "title": "TRF1 tranca ação sobre lobby em Angola",
+        "url": "https://www.cnnbrasil.com.br/politica/trf-1-trava-acao-penal-que-acusa-lula-de-lobby-em-angola/",
+        "type": "press",
+        "note": ""
+      }
+    ],
+    "identifier": "TRF1 HC 1024917-71.2018.4.01.0000"
+  },
+  {
+    "id": "lula-janus-bndes",
+    "title": "Janus II — ampliação de crédito do BNDES",
+    "category": "Criminal",
+    "court": "10ª Vara Federal Criminal do DF",
+    "state": "encerrado",
+    "status": "Ação encerrada por falta de justa causa",
+    "role": "Réu; ação encerrada",
+    "updated": "2021-09-06",
+    "summary": "Lula respondeu a outra ação sobre suposta influência na ampliação de crédito à Odebrecht para Angola. O processo foi encerrado em setembro de 2021.",
+    "details": "O juiz considerou insuficiente a base acusatória, vinculada a elementos de Curitiba invalidados e ao caso de organização criminosa já julgado. Admitiu nova denúncia se apoiada em elementos apropriados.",
+    "defense": "A defesa alegou nulidade dos elementos utilizados e falta de justa causa.",
+    "limit": "O encerramento não é condenação nem absolvição de mérito. Esta ação não deve ser confundida com Janus I, trancada em 2020.",
+    "events": [
+      {
+        "date": "2021-09-03",
+        "title": "Encerramento determinado",
+        "text": "Decisão divulgada em 06/09 encerra a ação."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2021-09-06",
+        "title": "Justiça encerra ação sobre suposta interferência no BNDES",
+        "url": "https://www.cnnbrasil.com.br/politica/justica-encerra-acao-contra-lula-por-suposta-interferencia-no-bndes/",
+        "type": "press",
+        "note": "Texto de Lucas Rocha; distingue decisão de 03/09 e divulgação de 06/09."
+      },
+      {
+        "publisher": "O Globo / Bela Megale",
+        "date": "2021-09-06",
+        "title": "Justiça tranca ação sobre influência no BNDES",
+        "url": "https://blogs.oglobo.globo.com/bela-megale/post/justica-tranca-acao-penal-contra-lula-e-acusados-de-influenciarem-bndes-para-favorecer-odebrecht.html",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "lula-oas-costa-rica",
+    "title": "OAS — suposto tráfico de influência na Costa Rica",
+    "category": "Criminal",
+    "court": "9ª Vara Federal de São Paulo",
+    "state": "encerrado",
+    "status": "Arquivamento por prescrição quanto a Lula",
+    "role": "Investigado; procedimento arquivado",
+    "updated": "2021-09-13",
+    "summary": "Lula foi investigado por suposto favorecimento à OAS na Costa Rica. Houve arquivamento por prescrição.",
+    "details": "A suspeita partiu de Léo Pinheiro e envolvia uma palestra de 2011.",
+    "defense": "A defesa classificou a acusação como infundada.",
+    "limit": "A ausência de justa causa refere-se aos demais investigados; para Lula, houve prescrição.",
+    "events": [
+      {
+        "date": "2021-09-10",
+        "title": "Arquivamento",
+        "text": "Juíza reconhece prescrição quanto a Lula."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2021-09-13",
+        "title": "Arquivada investigação sobre OAS e Costa Rica",
+        "url": "https://www.cnnbrasil.com.br/politica/justica-federal-arquiva-investigacao-contra-lula-por-trafico-de-influencia-para-oas/",
+        "type": "press",
+        "note": "Reproduz os fundamentos distintos."
+      }
+    ]
+  },
+  {
+    "id": "lula-palestras-empreiteiras",
+    "title": "Palestras pagas por empreiteiras",
+    "category": "Criminal",
+    "court": "13ª Vara Federal de Curitiba",
+    "state": "encerrado",
+    "status": "Investigação arquivada em 2020",
+    "role": "Investigado; apuração arquivada",
+    "updated": "2020-10-02",
+    "summary": "A investigação sobre pagamentos por palestras de Lula foi arquivada em 2020. A PF não encontrou indícios de crime; o MPF concordou.",
+    "details": "Uma decisão de 24/09/2020 registrou o arquivamento da apuração iniciada em 2015.",
+    "defense": "Cristiano Zanin celebrou o resultado e criticou a condução da Lava Jato.",
+    "limit": "Apuração distinta das doações ao Instituto Lula; não absolve outras acusações.",
+    "events": [
+      {
+        "date": "2020-09-24",
+        "title": "Arquivamento registrado",
+        "text": "Decisão judicial reconhece o desfecho da apuração."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Folhapress / Amazonas Atual",
+        "date": "2020-10-02",
+        "title": "Investigação sobre palestras é arquivada",
+        "url": "https://amazonasatual.com.br/investigacao-sobre-palestras-de-lula-e-arquivada-e-juiza-manda-desbloquear-bens/",
+        "type": "press",
+        "note": "Reportagem assinada por Felipe Bachtold."
+      }
+    ]
+  },
+  {
+    "id": "lula-arg-guine-equatorial",
+    "title": "ARG — doação e negócios na Guiné Equatorial",
+    "category": "Criminal",
+    "court": "2ª Vara Federal Criminal de São Paulo · TRF3",
+    "state": "encerrado",
+    "status": "Ação trancada por ilicitude das provas",
+    "role": "Réu; ação trancada quanto a Lula",
+    "updated": "2021-08-11",
+    "summary": "Lula tornou-se réu por lavagem de dinheiro em 2018, em ação ligada a uma doação da ARG ao Instituto Lula. O TRF3 trancou o processo contra ele em agosto de 2021.",
+    "details": "O MPF tratou R$ 1 milhão doado como suposto pagamento por influência junto ao governo da Guiné Equatorial. A imputação de tráfico de influência já estava prescrita para Lula; a ação por lavagem terminou após reconhecimento de provas ilícitas por derivação.",
+    "defense": "A defesa disse que a doação era lícita e contabilizada e questionou provas obtidas em buscas ordenadas por Sérgio Moro.",
+    "limit": "O trancamento não é absolvição de mérito. O acórdão delimita o benefício a Lula; não se presume o desfecho do corréu.",
+    "events": [
+      {
+        "date": "2018-12-14",
+        "title": "Denúncia recebida",
+        "text": "Lula passa a responder por lavagem de dinheiro."
+      },
+      {
+        "date": "2021-08-09",
+        "title": "Ação trancada",
+        "text": "Quinta Turma decide por unanimidade; acórdão assinado em 10/08."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "MPF",
+        "date": "2018-12-14",
+        "title": "MPF informa recebimento da denúncia por lavagem",
+        "url": "https://combateacorrupcao.mpf.mp.br/feeder_novo/lava-jato/6bb1f339acc43de85f31c2dc7cb5e250",
+        "type": "official",
+        "note": "Relato acusatório histórico. Data do recebimento da denúncia; página sem carimbo editorial."
+      },
+      {
+        "publisher": "TRF3 / Migalhas",
+        "date": "2021-08-10",
+        "title": "Acórdão do habeas corpus sobre Guiné Equatorial",
+        "url": "https://www.migalhas.com.br/arquivos/2021/8/5A04893AC0A612_acordao-lula.pdf",
+        "type": "press",
+        "note": "Cópia integral de documento judicial hospedada por terceiro."
+      },
+      {
+        "publisher": "Folha de S.Paulo",
+        "date": "2021-08-10",
+        "title": "TRF3 tranca ação contra Lula no caso Guiné Equatorial",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2021/08/tribunal-manda-trancar-acao-penal-contra-lula-em-caso-da-guine-equatorial.shtml",
+        "type": "press",
+        "note": "Reportagem de Felipe Bächtold confirma julgamento de 09/08."
+      },
+      {
+        "publisher": "Migalhas",
+        "date": "2021-08-11",
+        "title": "Trancamento da ação e fundamento da nulidade",
+        "url": "https://www.migalhas.com.br/quentes/349920/trf-3-tranca-acao-penal-contra-lula-de-trafico-de-influencia",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Folha de S.Paulo",
+        "date": "2018-12-14",
+        "title": "Lula torna-se réu por lavagem de dinheiro em São Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2018/12/lula-vira-reu-sob-acusacao-de-lavagem-de-dinheiro-em-acao-da-lava-jato-em-sp.shtml",
+        "type": "press",
+        "note": "Reportagem de José Marques apresenta a defesa sobre a doação."
+      }
+    ],
+    "identifier": "TRF3 HC 5014649-25.2021.4.03.0000 · Ação Penal 0006803-31.2018.4.03.6181"
+  },
+  {
+    "id": "lula-palacios-estrutura-publica-2026",
+    "category": "Eleitoral",
+    "title": "Uso de palácios e estrutura pública na campanha de 2026",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE em curso; cautelares genéricas negadas",
+    "role": "Investigado em ação eleitoral",
+    "updated": "2026-10-16",
+    "summary": "Ação admitida contra Lula e Alckmin apura alegado uso da estrutura federal em benefício eleitoral.",
+    "details": "Flávio Bolsonaro questionou eventos, gravações nos palácios e imagens de pronunciamento na ONU. Em outubro, o corregedor rejeitou proibições genéricas e pedidos cautelares insuficientemente delimitados.",
+    "defense": "Resposta específica da defesa não localizada nas fontes consultadas.",
+    "limit": "A decisão cautelar não encerrou a investigação nem reconheceu a ocorrência de abuso.",
+    "events": [
+      {
+        "date": "2026-09-28",
+        "title": "Ação admitida",
+        "text": "Corregedoria abriu o processamento e pediu esclarecimentos sobre cautelares."
+      },
+      {
+        "date": "2026-10-16",
+        "title": "Cautelares decididas",
+        "text": "Negativa de proibição genérica preservou a análise conjunta dos episódios."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2026-09-28",
+        "title": "Admissão e esclarecimentos",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-pede-informacoes-complementares-antes-de-analisar-acao-de-flavio-bolsonaro-contra-lula-e-alckmin",
+        "type": "official",
+        "note": "Identifica partes e processo."
+      },
+      {
+        "publisher": "TSE",
+        "date": "2026-10-16",
+        "title": "Decisão sobre cautelares",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/corregedoria-do-tse-afasta-proibicao-generica-de-gravacoes-nos-palacios-presidenciais-mas-ressalva-vedacao-ao-uso-eleitoral-da-estrutura-publica",
+        "type": "official",
+        "note": "Afirma expressamente que a investigação prossegue."
+      }
+    ],
+    "identifier": "AIJE 0602230-49.2026.6.00.0000"
+  },
+  {
+    "id": "lula-exercito-whatsapp-2026",
+    "category": "Eleitoral",
+    "title": "Canal Exército do Lula e alegação de abuso digital",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitida; mérito não localizado",
+    "role": "Investigado com Alckmin e Janones",
+    "updated": "2026-10-23",
+    "summary": "O TSE admitiu investigação sobre alegada coordenação de propaganda negativa e desinformação favorável à candidatura de Lula.",
+    "details": "Flávio Bolsonaro atribui a Janones a organização do canal e a Lula conhecimento e benefício. O corregedor exigiu especificação das provas digitais. Em procedimento relacionado, liminar de 23 de outubro limitou restrições administrativas ao canal.",
+    "defense": "A coligação afirmou que registrar o endereço para cumprir ordem judicial não significava assumir a administração do canal.",
+    "limit": "Admissão não comprova abuso. A liminar relacionada ao canal não julgou a responsabilidade de Lula na AIJE.",
+    "events": [
+      {
+        "date": "2026-10-10",
+        "title": "Investigação admitida",
+        "text": "TSE determinou apresentação de provas e notificação para defesa."
+      },
+      {
+        "date": "2026-10-23",
+        "title": "Liminar em autos relacionados",
+        "text": "Ordem restringiu bloqueios administrativos; investigação própria continuou sujeita a julgamento."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2026-10-10",
+        "title": "Admissão da AIJE e provas digitais",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-determina-esclarecimentos-antes-de-analisar-pedidos-de-flavio-contra-lula-e-janones",
+        "type": "official",
+        "note": "Fonte da imputação processual."
+      },
+      {
+        "publisher": "Agência Brasil",
+        "date": "2026-10-13",
+        "title": "Registro do canal pela campanha",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-registra-canal-exercito-do-lula-na-justica-eleitoral",
+        "type": "press",
+        "note": "Reportagem de Felipe Pontes; registra a ressalva da coligação."
+      },
+      {
+        "publisher": "Congresso em Foco",
+        "date": "2026-10-23",
+        "title": "Limites à suspensão administrativa",
+        "url": "https://www.congressoemfoco.com.br/amp/noticia/123573/ministro-proibe-suspensao-do-exercito-do-lula-sem-aval-do-plenario",
+        "type": "press",
+        "note": "Refere-se a mandado de segurança distinto da AIJE."
+      }
+    ],
+    "identifier": "AIJE 0602694-73.2026.6.00.0000"
+  },
+  {
+    "id": "lula-carnaval-niteroi-2026",
+    "category": "Eleitoral",
+    "title": "Desfile da Acadêmicos de Niterói em 2026",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "Ações eleitorais admitidas para instrução",
+    "role": "Investigado em ações sobre o mesmo desfile",
+    "updated": "2026-09-19",
+    "summary": "Duas ações admitidas questionam financiamento e exposição eleitoral do desfile que homenageou Lula.",
+    "details": "O Novo obteve admissão em agosto. Outra ação, de Flávio Bolsonaro e Alfredo Gaspar, foi admitida em setembro. Os autores alegam abuso e apontam R$ 9,65 milhões de recursos públicos para a escola.",
+    "defense": "Resposta específica de Lula não localizada nas reportagens consultadas.",
+    "limit": "As admissões não comprovaram irregularidade. Esta ficha agrupa o episódio, sem tratar as duas ações como dois fatos ilícitos estabelecidos.",
+    "events": [
+      {
+        "date": "2026-08-17",
+        "title": "Admissão noticiada",
+        "text": "Band documentou a admissão da AIJE do Novo."
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Outra ação admitida",
+        "text": "SBT News informou a admissão da ação de Flávio Bolsonaro e Alfredo Gaspar."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Band",
+        "date": "2026-08-17",
+        "title": "AIJE do Novo",
+        "url": "https://www.band.com.br/politica/eleicoes/tse-admite-acao-que-pede-inelegibilidade-de-lula-por-desfile-de-carnaval",
+        "type": "press",
+        "note": "Publica número e fundamentos da admissibilidade."
+      },
+      {
+        "publisher": "SBT News",
+        "date": "2026-09-19",
+        "title": "Ação de Flávio Bolsonaro e Alfredo Gaspar",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acao-contra-lula-por-desfile-no-rio",
+        "type": "press",
+        "note": "Reportagem de Soane Guerreiro e Antonio Souza."
+      }
+    ],
+    "identifier": "AIJE do Novo: 0601427-66.2026.6.00.0000"
+  },
+  {
+    "id": "lula-primeiro-maio-boulos-2024",
+    "category": "Eleitoral",
+    "title": "Pedido antecipado de votos para Boulos no 1º de Maio",
+    "court": "2ª Zona Eleitoral de São Paulo · TRE-SP · TSE",
+    "state": "decisao",
+    "status": "Multa reduzida a R$ 15 mil; sem trânsito confirmado",
+    "role": "Representado e recorrente",
+    "updated": "2026-05-21",
+    "summary": "Lula foi multado por pedir votos para Guilherme Boulos antes da campanha municipal de 2024.",
+    "details": "A sentença fixou R$ 20 mil. Em setembro de 2024, o TRE-SP manteve a infração e reduziu a multa de Lula para R$ 15 mil. Em maio de 2026, a VEJA informou que o recurso ao TSE ainda aguardava julgamento.",
+    "defense": "Lula recorreu da condenação; argumentos específicos não foram identificados nas fontes utilizadas.",
+    "limit": "A situação recursal atual não foi confirmada diretamente nos autos. Trata-se de sanção eleitoral, não condenação criminal.",
+    "events": [
+      {
+        "date": "2024-06-21",
+        "title": "Multa inicial",
+        "text": "Justiça Eleitoral fixou multa de R$ 20 mil para Lula."
+      },
+      {
+        "date": "2024-09-03",
+        "title": "Redução pelo TRE-SP",
+        "text": "Multa de Lula passou a R$ 15 mil."
+      },
+      {
+        "date": "2026-05-21",
+        "title": "Pendência recursal noticiada",
+        "text": "VEJA informou que o agravo ainda não havia sido julgado."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TRE-SP",
+        "date": "2024-06-21",
+        "title": "Sentença por propaganda antecipada",
+        "url": "https://www.tre-sp.jus.br/comunicacao/noticias/2024/Junho/presidente-lula-e-boulos-sao-condenados-ao-pagamento-de-multa-por-propaganda-eleitoral-antecipada",
+        "type": "official",
+        "note": "Identifica o processo principal."
+      },
+      {
+        "publisher": "UOL",
+        "date": "2024-09-03",
+        "title": "TRE-SP reduz valores das multas",
+        "url": "https://noticias.uol.com.br/eleicoes/2024/09/03/lula-boulos-tre-sp-condenacao-propaganda-antecipada.htm",
+        "type": "press",
+        "note": "Reportagem de Bruno Luiz."
+      },
+      {
+        "publisher": "VEJA",
+        "date": "2026-05-21",
+        "title": "Recurso ainda pendente no TSE",
+        "url": "https://veja.abril.com.br/brasil/a-irregularidade-eleitoral-do-presidente-lula-esquecida-pelo-tse/",
+        "type": "press",
+        "note": "Reportagem de Heitor Mazzoco; usada para a pendência recursal."
+      }
+    ],
+    "identifier": "0600058-76.2024.6.26.0002"
+  },
+  {
+    "id": "lula-impulsionamento-negativo-2022",
+    "category": "Eleitoral",
+    "title": "Impulsionamento de vídeo contra Bolsonaro em 2022",
+    "court": "TSE",
+    "state": "decisao",
+    "status": "Multa de R$ 250 mil noticiada em 2024",
+    "role": "Representado com a coligação Brasil da Esperança",
+    "updated": "2024-04-30",
+    "summary": "O TSE multou Lula e sua coligação pelo impulsionamento pago de propaganda negativa contra Bolsonaro.",
+    "details": "O julgamento virtual de abril de 2024 tratou de vídeo da campanha de 2022. A restrição incidiu sobre a promoção paga de conteúdo contrário ao adversário.",
+    "defense": "Resposta específica da defesa não localizada nas reportagens consultadas.",
+    "limit": "Não foi localizado resultado recursal posterior. A multa eleitoral não é indenização pessoal a Bolsonaro nem condenação criminal.",
+    "events": [
+      {
+        "date": "2024-04-26",
+        "title": "Julgamento virtual",
+        "text": "TSE aplicou multa; decisão foi noticiada em 30 de abril."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SBT News",
+        "date": "2024-04-30",
+        "title": "Multa por impulsionamento negativo",
+        "url": "https://sbtnews.sbt.com.br/noticia/justica/tse-multa-campanha-de-lula-em-r-250-mil-por-propaganda-contra-bolsonaro",
+        "type": "press",
+        "note": "Reportagem de Camila Stucaluc; informa julgamento em 26 de abril."
+      },
+      {
+        "publisher": "Estadão Conteúdo / UOL",
+        "date": "2024-04-30",
+        "title": "Decisão e alcance da sanção",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/04/30/tse-condena-lula-e-sua-coligacao-a-pagarem-r-250-mil-por-campanha-negativa-contra-bolsonaro.htm",
+        "type": "press",
+        "note": "Confirma Lula e coligação como sancionados."
+      }
+    ]
+  },
+  {
+    "id": "lula-google-ads-2022",
+    "category": "Eleitoral",
+    "title": "Google Ads na campanha presidencial de 2022",
+    "court": "TSE",
+    "state": "encerrado",
+    "status": "Pedidos julgados improcedentes em 2023",
+    "role": "Investigado em AIJE julgada improcedente",
+    "updated": "2023-10-19",
+    "summary": "O TSE rejeitou a acusação de abuso eleitoral pelo uso de anúncios que promoviam Lula nas buscas do Google.",
+    "details": "A ação de Bolsonaro e sua coligação questionava anúncios positivos associados a termos sobre corrupção. O tribunal não identificou utilização anormal ou desproporcional da ferramenta.",
+    "defense": "A defesa sustentou que a publicidade positiva era permitida e combatia desinformação.",
+    "limit": "A decisão trata deste uso eleitoral de anúncios; não julga acusações de corrupção mencionadas nas buscas.",
+    "events": [
+      {
+        "date": "2023-10-19",
+        "title": "Improcedência",
+        "text": "Plenário rejeitou a AIJE por unanimidade."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2023-10-19",
+        "title": "Argumentos das partes",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Outubro/veja-os-principais-pontos-dos-relatorios-das-aijes-contra-lula-por-supostas-irregularidades-nas-eleicoes-2022",
+        "type": "official",
+        "note": "Documenta acusação e defesa."
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2023-10-19",
+        "title": "Resultado do julgamento",
+        "url": "https://www.cnnbrasil.com.br/politica/tse-rejeita-duas-acoes-de-bolsonaro-contra-lula-e-alckmin/",
+        "type": "press",
+        "note": "Reportagem de Lucas Mendes."
+      }
+    ],
+    "identifier": "AIJE 0601312-84"
+  },
+  {
+    "id": "lula-cobertura-primeiro-turno-2022",
+    "category": "Eleitoral",
+    "title": "Cobertura jornalística no primeiro turno de 2022",
+    "court": "TSE",
+    "state": "encerrado",
+    "status": "Pedidos julgados improcedentes em 2023",
+    "role": "Investigado em AIJE julgada improcedente",
+    "updated": "2023-10-19",
+    "summary": "O TSE rejeitou a alegação de favorecimento eleitoral de Lula pela cobertura jornalística de 2 de outubro de 2022.",
+    "details": "A ação contestava entrevistas e exposição televisiva no dia da votação. O julgamento não identificou tratamento privilegiado que caracterizasse abuso dos meios de comunicação.",
+    "defense": "A defesa apontou que Bolsonaro também recebeu cobertura jornalística naquele dia.",
+    "limit": "A improcedência se refere aos episódios desta ação. Não foi confirmada certidão de trânsito em julgado.",
+    "events": [
+      {
+        "date": "2023-10-19",
+        "title": "Acusação rejeitada",
+        "text": "TSE julgou improcedente o pedido contra Lula e Alckmin."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2023-10-19",
+        "title": "Resultado sobre cobertura jornalística",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Outubro/lula-nao-foi-favorecido-por-cobertura-de-veiculos-da-midia-nas-eleicoes-de-2022-afirma-tse",
+        "type": "official",
+        "note": "Fonte oficial do desfecho."
+      },
+      {
+        "publisher": "TSE",
+        "date": "2023-10-19",
+        "title": "Relatório das alegações",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Outubro/veja-os-principais-pontos-dos-relatorios-das-aijes-contra-lula-por-supostas-irregularidades-nas-eleicoes-2022",
+        "type": "official",
+        "note": "Registra a defesa."
+      }
+    ],
+    "identifier": "AIJE 0601382-04"
+  },
+  {
+    "id": "lula-propaganda-teresina-2022",
+    "category": "Eleitoral",
+    "title": "Propaganda antecipada no ato de Teresina",
+    "court": "TSE",
+    "state": "decisao",
+    "status": "Multa de R$ 10 mil aplicada em 2022",
+    "role": "Representado por propaganda antecipada",
+    "updated": "2022-09-14",
+    "summary": "O TSE aplicou multa pelo pedido de votos feito por Lula em Teresina antes do início oficial da campanha de 2022.",
+    "details": "O ato ocorreu em 3 de agosto. O tribunal confirmou a irregularidade e a retirada do trecho do discurso com pedido explícito de votos.",
+    "defense": "O advogado Eugênio Aragão afirmou que o discurso buscava mobilizar militantes, não conquistar votos.",
+    "limit": "Não foi localizado desfecho recursal posterior. É uma sanção eleitoral, sem condenação criminal nesta ficha.",
+    "events": [
+      {
+        "date": "2022-08-03",
+        "title": "Discurso questionado",
+        "text": "Ato em Teresina antecedeu o período oficial de propaganda."
+      },
+      {
+        "date": "2022-09-13",
+        "title": "Multa pelo TSE",
+        "text": "Julgamento aplicou R$ 10 mil; decisão noticiada no dia seguinte."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2022-08-05",
+        "title": "Remoção do pedido antecipado de votos",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Agosto/ministra-determina-remocao-de-conteudo-de-redes-sociais-por-propaganda-eleitoral-antecipada-80235",
+        "type": "official",
+        "note": "Notícia da decisão inicial."
+      },
+      {
+        "publisher": "Mais Goiás",
+        "date": "2022-09-14",
+        "title": "Julgamento e manifestação da defesa",
+        "url": "https://www.maisgoias.com.br/politica/tse-multa-campanha-de-lula-por-propaganda-eleitoral-antecipada/",
+        "type": "press",
+        "note": "Reportagem assinada por Artur Dias."
+      }
+    ],
+    "identifier": "RP 0600673-66"
+  },
+  {
+    "id": "lula-mensagens-govbr-2026",
+    "title": "Mensagens oficiais por Gov.br e WhatsApp em 2026",
+    "category": "Eleitoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE em curso; suspensão das mensagens negada",
+    "role": "Investigado com Alckmin e Sidônio Palmeira",
+    "updated": "2026-10-22",
+    "identifier": "AIJE 0603241-16.2026.6.00.0000",
+    "summary": "O TSE deu andamento à ação sobre alegado uso eleitoral de bases de dados e canais oficiais do governo.",
+    "details": "Flávio Bolsonaro questionou mensagens sobre benefícios e serviços públicos. Ao negar a suspensão, o corregedor considerou o pedido excessivamente amplo e as comunicações examinadas aparentemente informativas, sem pedido de voto.",
+    "defense": "Resposta específica da defesa não localizada nas fontes consultadas.",
+    "limit": "A negativa da liminar não encerrou a AIJE. O caráter informativo foi avaliado preliminarmente, sem julgamento final de responsabilidade.",
+    "events": [
+      {
+        "date": "2026-10-20",
+        "title": "Ajuizamento",
+        "text": "Flávio apresentou a ação contra o uso alegadamente eleitoral de mensagens oficiais."
+      },
+      {
+        "date": "2026-10-22",
+        "title": "Investigação prossegue",
+        "text": "Cautelares foram negadas e investigados receberam prazo para defesa."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2026-10-22",
+        "title": "Decisão sobre mensagens oficiais",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/cge-nega-pedido-do-candidato-flavio-bolsonaro-para-suspender-mensagens-do-governo-federal",
+        "type": "official",
+        "note": "Confirma partes, número e continuidade da ação."
+      },
+      {
+        "publisher": "Estadão Conteúdo / Terra",
+        "date": "2026-10-22",
+        "title": "Negativa da suspensão e andamento da AIJE",
+        "url": "https://www.terra.com.br/noticias/brasil/politica/cueva-nega-pedido-de-flavio-para-suspender-mensagens-de-canais-oficiais-do-governo-federal,f366a217f2b135acb6de01149d77d0baz66y9qwf.html",
+        "type": "press",
+        "note": "Reportagem de Lavínia Kaucz."
+      }
+    ]
+  }
+]

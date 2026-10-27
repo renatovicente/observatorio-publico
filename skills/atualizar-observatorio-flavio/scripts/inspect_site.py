@@ -25,7 +25,16 @@ def main():
     try:
         manifest_path = root / '.openai/hosting.json'
         manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}
-        records = json.loads((root / 'dist/data.json').read_text())
+        by_person = {
+            'flavio': json.loads((root / 'dist/data.json').read_text()),
+            'lula': json.loads((root / 'dist/data.lula.json').read_text()),
+        }
+        records = [record for items in by_person.values() for record in items]
+        for person, items in by_person.items():
+            if any(r['id'].startswith('lula-') != (person == 'lula') for r in items):
+                errors.append(f'Fichas misturadas no dossiê {person}.')
+        if any(r['state'] == 'pedido' for r in by_person['lula']):
+            errors.append('Lula: pedido sem instauração confirmada fora do recorte.')
         if not isinstance(manifest, dict):
             raise ValueError('O manifesto precisa ser um objeto.')
         if not isinstance(records, list) or not all(isinstance(r, dict) for r in records):
@@ -47,8 +56,8 @@ def main():
     bilingual = {'routes': {'pt': '/', 'en': '/en/'}, 'english_records': None,
                  'source_hashes': None, 'hash_freshness': 'Não verificada; executar node build-data.mjs.'}
     try:
-        english = json.loads((root / 'dist/data.en.json').read_text())
-        hashes = json.loads((root / 'translations/en-source-hashes.json').read_text())
+        english = json.loads((root / 'dist/data.en.json').read_text()) + json.loads((root / 'dist/data.lula.en.json').read_text())
+        hashes = {**json.loads((root / 'translations/en-source-hashes.json').read_text()), **json.loads((root / 'translations/lula-en-source-hashes.json').read_text())}
         if not isinstance(english, list) or not all(isinstance(r, dict) for r in english):
             raise ValueError('data.en.json precisa conter uma lista de objetos.')
         english_ids = [r['id'] for r in english]
@@ -90,7 +99,7 @@ def main():
     except (OSError, ValueError, TypeError, KeyError, AttributeError) as exc:
         errors.append(f'Inventário bilíngue: {exc}')
 
-    required = ('dist/en/index.html', 'translations/en.mjs', 'build-locales.mjs', 'dist/severity.mjs')
+    required = ('dist/en/index.html', 'translations/en.mjs', 'build-locales.mjs', 'dist/severity.mjs', 'dist/lula-severity.mjs', 'dist/dossiers.mjs', 'dist/case-status.mjs', 'records/lula.mjs', 'translations/lula.en.mjs')
     bilingual['supporting_files'] = {relative: (root / relative).is_file() for relative in required}
     for relative, present in bilingual['supporting_files'].items():
         if not present:
@@ -101,7 +110,7 @@ def main():
                 'note': 'A inspeção não executa o módulo nem infere suas classificações por regex.'}
 
     metadata, files = {}, {}
-    for relative in ('dist/index.html', 'dist/en/index.html', 'dist/app.js', 'validate.mjs', 'README.md'):
+    for relative in ('dist/index.html', 'dist/en/index.html', 'dist/app.js', 'dist/dossiers.mjs', 'validate.mjs', 'README.md'):
         try:
             files[relative] = (root / relative).read_text()
         except OSError:
@@ -137,9 +146,8 @@ def main():
     capture('hero_en', 'dist/en/index.html', r'Research completed on\s*(?:<br>\s*)?<strong>([^<]+)</strong>', en_date)
     capture('methodology_en', 'dist/en/index.html', r'found online through (\d{1,2} [a-z]+ \d{4})', en_date)
     capture('footer_en', 'dist/en/index.html', r'Edition of (\d{1,2} [a-z]+ \d{4})', en_date)
-    capture('export', 'dist/app.js', r'''researchedAt\s*:\s*['"](\d{4}-\d{2}-\d{2})['"]''')
-    capture('download', 'dist/app.js', r'observatorio-flavio-(\d{4}-\d{2}-\d{2})\.json')
-    capture('download_en', 'dist/app.js', r'observatorio-flavio-en-(\d{4}-\d{2}-\d{2})\.json')
+    for person in by_person:
+        capture('export_' + person, 'dist/dossiers.mjs', person + r"\s*:\s*\{.*?researchedAt\s*:\s*['\"](\d{4}-\d{2}-\d{2})['\"]")
     capture('validator_cutoff', 'validate.mjs', r'''obj\.date\s*<=\s*['"](\d{4}-\d{2}-\d{2})['"]''')
     capture('readme', 'README.md', r'encerrada em (\d{2}/\d{2}/\d{4})', numeric_date)
     if len(set(metadata.values())) > 1:
@@ -153,6 +161,7 @@ def main():
     report = {
         'project': str(root), 'project_id': manifest.get('project_id'),
         'records': len(records), 'unique_sources': len(source_urls),
+        'dossiers': {person: {'records': len(items), 'unique_sources': len({source['url'] for record in items for source in record['sources']})} for person, items in by_person.items()},
         'categories': dict(Counter(r.get('category', '(ausente)') for r in records)),
         'states': dict(Counter(r.get('state', '(ausente)') for r in records)),
         'latest_record_date': latest, 'edition_metadata': metadata,

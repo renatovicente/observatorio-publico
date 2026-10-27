@@ -1,3 +1,4 @@
+import lulaSeverity from './lula-severity.mjs';
 // Editorial assessment of potential impact, separate from the factual case records.
 // Bands are ordinal, not legal scores, sentencing estimates or findings of guilt.
 export const severityBands = [
@@ -17,6 +18,7 @@ const filmPetition=()=>entry('institutional',
   'A disciplinary request about relationships and statements linked to the film’s financing. The subject is integrity in office; the petition establishes neither a financial offense nor admission of the proceedings.');
 
 export const recordSeverity = {
+  ...lulaSeverity,
   'rachadinhas-alerj':entry('financial','A acusação descrita envolve desvio de salários de assessores e lavagem de dinheiro. A gravidade potencial do objeto não altera a informação de que a denúncia foi rejeitada após a anulação de provas.','The allegation described concerns diversion of staff salaries and money laundering. The potential seriousness of the subject does not change the fact that the complaint was rejected after evidence was invalidated.'),
   'dark-horse':entry('financial','A apuração descrita envolve suspeitas de lavagem de dinheiro, evasão de divisas e corrupção no financiamento do filme. Investigação não equivale a condenação.','The inquiry described concerns suspected money laundering, unlawful transfers abroad and corruption in financing the film. An investigation is not a conviction.'),
   'willer-tomaz':entry('financial','A ficha descreve apuração de suspeitas de lavagem de dinheiro e evasão de divisas. As medidas cautelares não comprovam essas suspeitas e não são usadas como prova de culpa nesta classificação.','The record describes an inquiry into suspected money laundering and unlawful transfers abroad. Interim restrictions do not prove these allegations and are not treated as evidence of guilt in this classification.'),
