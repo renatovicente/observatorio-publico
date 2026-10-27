@@ -17,6 +17,8 @@ Abra http://127.0.0.1:4173 para português e http://127.0.0.1:4173/en/ para ingl
 
 ## Manutenção
 
+O método de atualização está em [`skills/atualizar-observatorio-flavio/SKILL.md`](skills/atualizar-observatorio-flavio/SKILL.md), com os mesmos critérios para execuções locais e na nuvem.
+
 Edite `build-data.mjs` e as traduções correspondentes em `translations/en.mjs`. Cada ficha contém papel da pessoa, situação, data da última informação localizada, resumo, histórico, posição da defesa, limitações e fontes com links. A contagem de fichas não é contagem de crimes ou de processos independentes.
 
 `node build-data.mjs` gera `dist/data.json` e chama `build-locales.mjs` para gerar `dist/data.en.json`. O segundo gerador conserva IDs, datas, números processuais e URLs; só os campos editoriais são traduzidos. Nomes de fontes e identificadores processuais continuam no idioma original. Cada ficha traduzida tem o hash SHA-256 do seu registro português revisado em `translations/en-source-hashes.json`. Se o original mudar, o build bloqueia a versão inglesa até sua revisão. Depois de revisar a tradução, atualize somente o hash da ficha correspondente, calculado com `createHash('sha256').update(JSON.stringify(record)).digest('hex')` sobre o registro em `dist/data.json`, e execute o build novamente. Não atualize hashes em lote para contornar traduções desatualizadas. Novas fichas exigem tradução e hash; remoções exigem retirada nos dois arquivos.

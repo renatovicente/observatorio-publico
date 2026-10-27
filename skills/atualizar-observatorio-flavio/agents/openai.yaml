@@ -1,0 +1,4 @@
+interface:
+  display_name: "Atualizar Observatório Flávio"
+  short_description: "Atualiza português, inglês e gravidade editorial do site"
+  default_prompt: "Use $atualizar-observatorio-flavio para pesquisar novas movimentações, manter as versões em português e inglês equivalentes e a ordenação por gravidade, validar e publicar o Observatório Público preservando seu nível de acesso."
