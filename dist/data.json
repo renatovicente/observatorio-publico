@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "rachadinhas-alerj",
+    "title": "Rachadinhas no gabinete da Alerj",
+    "category": "Criminal",
+    "court": "MPRJ · TJ-RJ · STJ · STF",
+    "state": "encerrado",
+    "status": "Denúncia rejeitada em 2022",
+    "role": "Denunciado; denúncia não recebida",
+    "updated": "2026-09-29",
+    "identifier": "PIC MPRJ 2018.00452470 · STF HC 201.965 / Rcl 41.910",
+    "summary": "O MPRJ acusou Flávio de participar de desvio de salários de assessores. A denúncia foi rejeitada após a anulação de provas; um pedido de reabertura foi noticiado em setembro de 2026.",
+    "details": "O caso abrange suspeitas de peculato e lavagem de dinheiro, incluindo movimentações imobiliárias e da loja de chocolates. Em 2021, STJ e STF invalidaram provas. O TJ-RJ rejeitou a denúncia por falta de justa causa em 2022. Recursos do MPRJ foram negados em 2025. A Folha noticiou em 29/09/2026 novo pedido do Grupo Prerrogativas, protocolado por Rui Falcão, baseado em registros de um cofre bancário.",
+    "defense": "Flávio nega irregularidades. Sua defesa considerou o caso encerrado após a rejeição da denúncia e qualificou a decisão de 2025 como técnica e acertada.",
+    "limit": "O pedido de setembro não comprova reabertura. A denúncia rejeitada não foi julgada no mérito. Imóveis e loja integram este núcleo factual e não são contados aqui como crimes autônomos.",
+    "events": [
+      {
+        "date": "2021-11-30",
+        "title": "Relatórios anulados",
+        "text": "A Segunda Turma do STF anulou quatro relatórios do Coaf."
+      },
+      {
+        "date": "2022-05-16",
+        "title": "Denúncia rejeitada",
+        "text": "O TJ-RJ acolheu a extinção após a invalidação das provas."
+      },
+      {
+        "date": "2025-02-26",
+        "title": "Recursos negados",
+        "text": "Gilmar Mendes rejeitou recursos do Ministério Público."
+      },
+      {
+        "date": "2026-09-29",
+        "title": "Novo pedido noticiado",
+        "text": "Petição requereu retomada; deferimento não confirmado."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "STF",
+        "date": "2021-11-30",
+        "title": "STF explica anulação dos relatórios financeiros e decisão sobre foro",
+        "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-decide-que-provas-contra-flavio-bolsonaro-no-caso-das-chamadas-rachadinhas-sao-ilegais/",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "Agência Brasil",
+        "date": "2022-05-16",
+        "title": "TJ-RJ rejeita denúncia após anulação das provas",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Band",
+        "date": "2025-02-27",
+        "title": "Recursos do MPRJ rejeitados no STF",
+        "url": "https://www.band.com.br/nacional/rj/stf-rejeita-recursos-do-mp-rj-no-caso-das-rachadinhas-envolvendo-flavio-bolsonaro",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Folha de S.Paulo",
+        "date": "2026-09-29",
+        "title": "Prerrogativas pede ao MPRJ reabertura do caso",
+        "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/prerrogativas-pede-que-mp-rj-reabra-caso-das-rachadinhas-para-investigar-flavio-bolsonaro.shtml",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "dark-horse",
+    "title": "Financiamento do filme Dark Horse",
+    "category": "Criminal",
+    "court": "STF · Polícia Federal",
+    "state": "investigacao",
+    "status": "Investigação confirmada",
+    "role": "Investigado",
+    "updated": "2026-10-16",
+    "identifier": "Petição vinculada ao Inquérito 5.026",
+    "summary": "A PF apura possíveis irregularidades no financiamento da cinebiografia de Jair Bolsonaro por Daniel Vorcaro. A inclusão de Flávio como investigado foi autorizada em julho de 2026.",
+    "details": "A investigação aborda suspeitas de lavagem de dinheiro, evasão de divisas e corrupção. A autorização de André Mendonça, com manifestação favorável da PGR, tornou-se pública em setembro. Em outubro, a PF pediu mais 90 dias para análises e cooperação internacional.",
+    "defense": "Flávio reconheceu ter solicitado recursos para o filme e afirma que o financiamento foi privado e lícito.",
+    "limit": "O pedido de prorrogação não equivale à sua concessão. Não foi localizada condenação. A frente sobre emendas parlamentares relacionadas à produtora não deve ser confundida automaticamente com este inquérito.",
+    "events": [
+      {
+        "date": "2026-07-22",
+        "title": "Investigação autorizada",
+        "text": "Inclusão nominal de Flávio, segundo os documentos noticiados."
+      },
+      {
+        "date": "2026-10-15",
+        "title": "Pedido de mais prazo",
+        "text": "PF solicitou 90 dias adicionais, conforme reportagem de 16/10."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Agência Brasil",
+        "date": "2026-09-11",
+        "title": "Inclusão de Flávio como investigado no caso Dark Horse",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-incluiu-flavio-bolsonaro-como-investigado-no-caso-dark-horse",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Reuters / Investing.com",
+        "date": "2026-09-11",
+        "title": "Autorização da investigação e posição do senador",
+        "url": "https://br.investing.com/news/politics-news/mendonca-abriu-inquerito-contra-flavio-por-corrupcao-lavagem-de-dinheiro-e-evasao-em-caso-dark-horse-2063240",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Folha de S.Paulo",
+        "date": "2026-10-16",
+        "title": "PF solicita prorrogação e análise de remessas ao exterior",
+        "url": "https://www1.folha.uol.com.br/poder/2026/10/pf-pede-a-mendonca-mais-90-dias-para-inquerito-sobre-dark-horse-e-cita-analise-de-remessas-ao-exterior.shtml",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "willer-tomaz",
+    "title": "Relação com Willer Tomaz e contas de empresas",
+    "category": "Criminal",
+    "court": "STF · Polícia Federal",
+    "state": "investigacao",
+    "status": "Investigação com medidas cautelares",
+    "role": "Investigado",
+    "updated": "2026-10-26",
+    "identifier": "Inquérito sigiloso; número não confirmado",
+    "summary": "Inquérito distinto de Dark Horse apura suspeitas de lavagem de dinheiro e evasão de divisas. Em 26/10/2026, a CNN noticiou restrições de viagem e proibição de contato com Willer Tomaz.",
+    "details": "A apuração surgiu de investigação sobre pagamentos e apostas no Rio Grande do Sul. Segundo reportagens, a PF examina possível participação econômica de Flávio em empresas ligadas a Tomaz. A CNN informou que Moraes determinou o cancelamento do passaporte brasileiro e a entrega de documentos de viagem de outras nacionalidades.",
+    "defense": "Flávio nega conta conjunta e participação societária. Sua defesa diz que um vínculo cadastral foi indevido e estava sendo corrigido. Ele afirmou que cumpriria a ordem, embora a criticasse. Tomaz também nega irregularidades.",
+    "limit": "As cautelares são relatadas pela imprensa a partir de decisão sigilosa. Não são condenação. O fato de Tomaz ser alvo em outro caso, relativo ao INSS, não torna Flávio automaticamente investigado naquele procedimento.",
+    "events": [
+      {
+        "date": "2026-10-16",
+        "title": "Distribuição no STF",
+        "text": "Segundo a CNN, o caso foi distribuído a Alexandre de Moraes."
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Medidas cautelares noticiadas",
+        "text": "Restrição documental de viagem e proibição de contato com Tomaz."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2026-10-21",
+        "title": "PF examina possível vínculo econômico com Willer Tomaz",
+        "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/pf-aponta-suspeita-de-que-flavio-era-socio-de-willer-tomaz/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2026-10-26",
+        "title": "Moraes determina cautelares sobre viagem e contato",
+        "url": "https://www.cnnbrasil.com.br/politica/moraes-manda-flavio-entregar-passaporte-e-nao-se-comunicar-com-willer/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "DW / BOL",
+        "date": "2026-10-21",
+        "title": "Contexto da apuração sobre apostas e respostas das defesas",
+        "url": "https://www.bol.uol.com.br/noticias/2026/10/21/o-que-se-sabe-sobre-suposto-elo-de-flavio-bolsonaro-com-esquema-de-bets.amp.htm",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2026-10-26",
+        "title": "Manifestação de Flávio sobre exigência dos passaportes",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pf-exigiu-seus-passaportes-apos-visita-a-bolsonaro/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "cpi-pandemia",
+    "title": "Desdobramento da CPI da Pandemia",
+    "category": "Criminal",
+    "court": "STF · Polícia Federal",
+    "state": "investigacao",
+    "status": "Abertura confirmada; desfecho não localizado",
+    "role": "Investigado / requerido nominal",
+    "updated": "2025-09-18",
+    "identifier": "STF Petição 10.064/DF",
+    "summary": "Em setembro de 2025, o STF determinou inquérito sobre fatos do relatório da CPI da Pandemia. Flávio consta nominalmente na decisão, ao lado de outros requeridos.",
+    "details": "Flávio Dino converteu a petição em inquérito em 17/09/2025, com prazo inicial de 60 dias e sigilo. A CPI havia proposto em 2021 seu indiciamento por incitação ao crime. A proposta parlamentar não equivale a denúncia criminal recebida.",
+    "defense": "Flávio criticou o relatório da CPI como político, frágil e inconstitucional. Essa resposta se refere ao relatório de 2021.",
+    "limit": "A decisão de abertura não individualiza todas as condutas. Não atribuímos a Flávio todos os delitos genericamente mencionados na apuração. Desfecho posterior não confirmado.",
+    "events": [
+      {
+        "date": "2025-09-17",
+        "title": "Inquérito determinado",
+        "text": "A decisão converteu a Petição 10.064 em investigação policial."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "STF",
+        "date": "2025-09-18",
+        "title": "STF determina abertura de inquérito sobre resultados da CPI",
+        "url": "https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-determina-abertura-de-inquerito-para-investigar-resultados-da-cpi-da-pandemia/",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "STF",
+        "date": "2025-09-17",
+        "title": "Decisão na Petição 10.064, com relação dos requeridos",
+        "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2025/09/18163955/PETICAO-10.064.pdf",
+        "type": "official",
+        "note": "PDF"
+      },
+      {
+        "publisher": "O Povo",
+        "date": "2021-10-26",
+        "title": "Posição de Flávio sobre o relatório da CPI",
+        "url": "https://www.opovo.com.br/noticias/politica/2021/10/26/amp/flavio-bolsonaro-diz-que-qualquer-estagiario-arquiva-o-relatorio-da-cpi-da-covid.html",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "calunia-lula",
+    "title": "Postagens sobre Lula: apuração de calúnia",
+    "category": "Criminal",
+    "court": "STF · Polícia Federal · PGR",
+    "state": "investigacao",
+    "status": "Relatório policial; sem decisão final localizada",
+    "role": "Investigado",
+    "updated": "2026-07-28",
+    "summary": "A PF concluiu, em junho de 2026, que postagens de Flávio configurariam calúnia contra Lula. Em julho, a defesa apresentou esclarecimentos e o caso voltou à PGR.",
+    "details": "A investigação trata de publicações de janeiro de 2026. A conclusão policial sobre a existência de crime não é uma condenação. Em 28/07, Moraes devolveu os autos à PGR para manifestação após esclarecimentos escritos.",
+    "defense": "A defesa sustenta que houve comentário político e previsão sobre o futuro, e que a referência a crimes dizia respeito a Nicolás Maduro, sem imputação falsa específica a Lula.",
+    "limit": "Não foram confirmados denúncia criminal recebida ou julgamento final neste levantamento.",
+    "events": [
+      {
+        "date": "2026-06-26",
+        "title": "Conclusão da PF noticiada",
+        "text": "Relatório apontou possível calúnia."
+      },
+      {
+        "date": "2026-07-28",
+        "title": "Esclarecimentos da defesa",
+        "text": "Autos remetidos novamente à PGR."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Agência Brasil",
+        "date": "2026-06-26",
+        "title": "PF conclui apuração sobre postagens e calúnia",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pf-conclui-que-flavio-bolsonaro-cometeu-calunia-contra-lula-nas-redes",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Band",
+        "date": "2026-07-28",
+        "title": "Defesa apresenta esclarecimentos no caso de calúnia",
+        "url": "https://www.band.com.br/politica/eleicoes/defesa-de-flavio-cita-investigacao-fragil-em-caso-de-calunia-contra-lula",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "furna-acareacao",
+    "title": "Furna da Onça: ausência em acareação",
+    "category": "Criminal",
+    "court": "Procuradoria-Geral da República",
+    "state": "encerrado",
+    "status": "Representação arquivada",
+    "role": "Alvo de representação por desobediência",
+    "updated": "2020-10-21",
+    "summary": "A PGR arquivou representação por suposta desobediência decorrente da ausência de Flávio em acareação com Paulo Marinho.",
+    "details": "O ato fazia parte da apuração sobre possível vazamento da Operação Furna da Onça. A PGR entendeu que Flávio, ouvido como testemunha, tinha prerrogativa para combinar a data do depoimento.",
+    "defense": "O fundamento acolhido foi a prerrogativa de agendamento na condição de testemunha.",
+    "limit": "O arquivamento diz respeito à representação pela ausência. Não é um julgamento de todos os fatos da Operação Furna da Onça.",
+    "events": [
+      {
+        "date": "2020-10-21",
+        "title": "Representação arquivada",
+        "text": "PGR afastou a imputação de desobediência nesse episódio."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2020-10-21",
+        "title": "PGR arquiva representação por falta à acareação",
+        "url": "https://www.cnnbrasil.com.br/politica/pgr-arquiva-representacao-contra-flavio-bolsonaro-por-faltar-a-acareacao/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "imoveis-especie",
+    "title": "Pedido de investigação sobre imóveis em espécie",
+    "category": "Criminal",
+    "court": "STF",
+    "state": "encerrado",
+    "status": "Pedido de investigação arquivado",
+    "role": "Alvo de pedido de investigação arquivado",
+    "updated": "2023-11-21",
+    "summary": "André Mendonça arquivou pedido de investigação dirigido a Jair Bolsonaro e seus filhos, incluindo Flávio, sobre compras de imóveis em espécie, por insuficiência de indícios.",
+    "details": "O deputado Reginaldo Lopes pediu a abertura de inquérito. A decisão publicada em 20/11/2023 rejeitou o requerimento por ausência de elementos suficientes. A reportagem identifica Flávio entre os filhos envolvidos nas aquisições questionadas.",
+    "defense": "A decisão favorável apontou insuficiência de elementos para instaurar apuração. Não foi localizada nesta fonte uma manifestação individual adicional de Flávio.",
+    "limit": "O levantamento de imóveis abrange vários familiares. Não atribuímos a Flávio todas as aquisições citadas na cobertura.",
+    "events": [
+      {
+        "date": "2023-11-20",
+        "title": "Pedido arquivado",
+        "text": "STF considerou insuficientes os indícios para abrir investigação."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Estadão Conteúdo / UOL",
+        "date": "2023-11-21",
+        "title": "Mendonça arquiva pedido sobre imóveis comprados em dinheiro",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2023/11/21/mendonca-arquiva-acao-contra-bolsonaro-sobre-compra-de-imoveis-em-dinheiro.htm",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "etica-2024",
+    "title": "Conselho de Ética: gabinete, Abin e Receita",
+    "category": "Parlamentar",
+    "court": "Senado · Conselho de Ética",
+    "state": "investigacao",
+    "status": "Representação pronta para pauta",
+    "role": "Representado",
+    "updated": "2025-08-26",
+    "identifier": "REP 1/2024 · originada na PCE 1/2020",
+    "summary": "Representação disciplinar sobre episódios relacionados ao antigo gabinete e alegada interferência em apurações. O portal do Senado a registra como pronta para pauta.",
+    "details": "O Conselho admitiu o procedimento em julho de 2024. O relator Dr. Hiran apresentou relatório preliminar em 26/08/2025. A tramitação consultada não registra julgamento final.",
+    "defense": "A defesa prévia pediu arquivamento sumário e contestou a procedência da representação.",
+    "limit": "Parecer do relator não equivale à decisão do Conselho. O procedimento é disciplinar, não uma condenação criminal.",
+    "events": [
+      {
+        "date": "2024-07-09",
+        "title": "Procedimento admitido",
+        "text": "A representação passou a tramitar no Conselho."
+      },
+      {
+        "date": "2025-08-26",
+        "title": "Relatório apresentado",
+        "text": "Matéria registrada como pronta para pauta."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Senado Federal",
+        "date": "2025-08-26",
+        "title": "Tramitação da Representação 1/2024",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164613",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "Agência Senado",
+        "date": "2024-07-09",
+        "title": "Conselho admite procedimentos contra senadores",
+        "url": "https://www12.senado.leg.br/noticias/materias/2024/07/09/conselho-de-etica-aceita-pedidos-e-abre-processos-contra-cinco-senadores",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "Senado Federal",
+        "date": "2024-07-23",
+        "title": "Defesa prévia de Flávio na REP 1/2024",
+        "url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9717985",
+        "type": "official",
+        "note": "Peça da defesa, não decisão"
+      }
+    ]
+  },
+  {
+    "id": "etica-pce-6-2026",
+    "title": "Ética: pedido de PSOL e Rede sobre Dark Horse",
+    "category": "Parlamentar",
+    "court": "Senado · Conselho de Ética",
+    "state": "pedido",
+    "status": "Petição; admissão não confirmada",
+    "role": "Alvo de pedido disciplinar",
+    "updated": "2026-09-21",
+    "identifier": "PCE 6/2026",
+    "summary": "PSOL e Rede pediram apuração disciplinar das articulações com Daniel Vorcaro para financiar o filme. A petição recebeu aditamento em setembro.",
+    "details": "A tramitação oficial registra a petição e o aditamento, sem admissão ou decisão de mérito localizada.",
+    "defense": "Não foi localizada resposta específica da defesa a esta petição nas fontes examinadas.",
+    "limit": "Pedido de abertura não equivale a processo disciplinar admitido. As cinco petições de 2026 se sobrepõem parcialmente e não representam cinco crimes.",
+    "events": [
+      {
+        "date": "2026-05-14",
+        "title": "Petição juntada",
+        "text": "Pedido registrado no Conselho de Ética."
+      },
+      {
+        "date": "2026-09-21",
+        "title": "Aditamento juntado",
+        "text": "Requerentes acrescentaram elementos à petição."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Senado Federal",
+        "date": "2026-09-21",
+        "title": "Tramitação oficial da PCE 6/2026",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174150",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "ICL Notícias",
+        "date": "2026-09-17",
+        "title": "Contexto das petições disciplinares apresentadas em 2026",
+        "url": "https://iclnoticias.com.br/flavio-bolsonaro-chega-a-reta-final-eleicoes/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "etica-pce-7-2026",
+    "title": "Ética: pedido do Partido Missão sobre Dark Horse",
+    "category": "Parlamentar",
+    "court": "Senado · Conselho de Ética",
+    "state": "pedido",
+    "status": "Petição; admissão não confirmada",
+    "role": "Alvo de pedido disciplinar",
+    "updated": "2026-05-14",
+    "identifier": "PCE 7/2026",
+    "summary": "O Partido Missão apresentou pedido de procedimento por suposta quebra de decoro nas negociações sobre o financiamento do filme.",
+    "details": "É uma petição distinta, relacionada ao mesmo núcleo factual do financiamento. Não foi localizada decisão de admissão.",
+    "defense": "Não foi localizada resposta específica da defesa a esta petição nas fontes examinadas.",
+    "limit": "Pedido de abertura não equivale a processo disciplinar admitido. As cinco petições de 2026 se sobrepõem parcialmente e não representam cinco crimes.",
+    "events": [
+      {
+        "date": "2026-05-14",
+        "title": "Petição juntada",
+        "text": "Pedido registrado no Conselho de Ética."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Senado Federal",
+        "date": "2026-05-14",
+        "title": "Tramitação oficial da PCE 7/2026",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174159",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "ICL Notícias",
+        "date": "2026-09-17",
+        "title": "Contexto das petições disciplinares apresentadas em 2026",
+        "url": "https://iclnoticias.com.br/flavio-bolsonaro-chega-a-reta-final-eleicoes/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "etica-pce-11-2026",
+    "title": "Ética: vídeo com IA e convenção presidencial",
+    "category": "Parlamentar",
+    "court": "Senado · Conselho de Ética",
+    "state": "pedido",
+    "status": "Petição; admissão não confirmada",
+    "role": "Alvo de pedido disciplinar",
+    "updated": "2026-08-03",
+    "identifier": "PCE 11/2026",
+    "summary": "Petição de Fábio de Oliveira Ribeiro questiona o vídeo de Jair Bolsonaro produzido com IA e participações internacionais na convenção de Flávio.",
+    "details": "As objeções são do requerente. A tramitação oficial não registra julgamento do conteúdo.",
+    "defense": "Não foi localizada resposta específica da defesa a esta petição nas fontes examinadas.",
+    "limit": "Pedido de abertura não equivale a processo disciplinar admitido. As cinco petições de 2026 se sobrepõem parcialmente e não representam cinco crimes.",
+    "events": [
+      {
+        "date": "2026-08-03",
+        "title": "Petição juntada",
+        "text": "Pedido registrado no Conselho de Ética."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Senado Federal",
+        "date": "2026-08-03",
+        "title": "Tramitação oficial da PCE 11/2026",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175327",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "ICL Notícias",
+        "date": "2026-09-17",
+        "title": "Contexto das petições disciplinares apresentadas em 2026",
+        "url": "https://iclnoticias.com.br/flavio-bolsonaro-chega-a-reta-final-eleicoes/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "etica-pce-14-2026",
+    "title": "Ética: versões sobre os pagamentos de Vorcaro",
+    "category": "Parlamentar",
+    "court": "Senado · Conselho de Ética",
+    "state": "pedido",
+    "status": "Petição; admissão não confirmada",
+    "role": "Alvo de pedido disciplinar",
+    "updated": "2026-09-03",
+    "identifier": "PCE 14/2026",
+    "summary": "O PT questiona declarações de Flávio sobre quando terminaram os repasses para Dark Horse.",
+    "details": "A alegação de contradição é do partido requerente; não representa conclusão do Conselho de Ética.",
+    "defense": "Não foi localizada resposta específica da defesa a esta petição nas fontes examinadas.",
+    "limit": "Pedido de abertura não equivale a processo disciplinar admitido. As cinco petições de 2026 se sobrepõem parcialmente e não representam cinco crimes.",
+    "events": [
+      {
+        "date": "2026-09-03",
+        "title": "Petição juntada",
+        "text": "Pedido registrado no Conselho de Ética."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Senado Federal",
+        "date": "2026-09-03",
+        "title": "Tramitação oficial da PCE 14/2026",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175724",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "ICL Notícias",
+        "date": "2026-09-17",
+        "title": "Contexto das petições disciplinares apresentadas em 2026",
+        "url": "https://iclnoticias.com.br/flavio-bolsonaro-chega-a-reta-final-eleicoes/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "etica-pce-22-2026",
+    "title": "Ética: Dark Horse e relações com Willer Tomaz",
+    "category": "Parlamentar",
+    "court": "Senado · Conselho de Ética",
+    "state": "pedido",
+    "status": "Petição; admissão não confirmada",
+    "role": "Alvo de pedido disciplinar",
+    "updated": "2026-10-21",
+    "identifier": "PCE 22/2026",
+    "summary": "Randolfe Rodrigues e outros sete senadores pediram apuração sobre o filme e alegados benefícios e vínculos patrimoniais relacionados a Vorcaro e Willer Tomaz.",
+    "details": "A petição foi juntada em 21/10/2026. A página oficial a registra aguardando designação de membros da comissão.",
+    "defense": "Não foi localizada resposta específica da defesa a esta petição nas fontes examinadas.",
+    "limit": "Pedido de abertura não equivale a processo disciplinar admitido. As cinco petições de 2026 se sobrepõem parcialmente e não representam cinco crimes.",
+    "events": [
+      {
+        "date": "2026-10-21",
+        "title": "Petição juntada",
+        "text": "Pedido registrado no Conselho de Ética."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Senado Federal",
+        "date": "2026-10-21",
+        "title": "Tramitação oficial da PCE 22/2026",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176023",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "HubPolítico",
+        "date": "2026-10-21",
+        "title": "Reprodução do texto da PCE 22/2026",
+        "url": "https://hubpolitico.com.br/legislativo/senado/proposicao/PCE-22-2026",
+        "type": "press",
+        "note": "Reprodução documental; não é página do Senado"
+      }
+    ]
+  },
+  {
+    "id": "rede-collabs",
+    "title": "Rede de perfis e impulsionamento na eleição de 2026",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "investigacao",
+    "status": "Ação eleitoral em apuração",
+    "role": "Investigado em AIJE",
+    "updated": "2026-09-22",
+    "summary": "O TSE admitiu apuração sobre uma alegada rede coordenada de perfis para ampliar o alcance de candidaturas e requisitou dados digitais.",
+    "details": "A coligação adversária aponta falta de transparência contábil e possível uso de estruturas de gabinete. Houve ordens de preservação e envio de dados pelo Facebook e de informações comerciais pela Shopee.",
+    "defense": "A defesa sustenta que os compartilhamentos eram voluntários, orgânicos e lícitos.",
+    "limit": "Admissão e diligências não confirmam abuso eleitoral. Não foi localizado julgamento de mérito.",
+    "events": [
+      {
+        "date": "2026-09-22",
+        "title": "Ação e diligências noticiadas",
+        "text": "TSE requisitou informações sobre perfis e vendas."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2026-09-22",
+        "title": "TSE apura rede de perfis e impulsionamento",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/tse-acata-pedido-de-campanha-de-lula-e-abre-acao-contra-flavio-entenda/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "TSE",
+        "date": "2026-09-22",
+        "title": "Corregedoria requisita dados ao Facebook e à Shopee",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/corregedoria-geral-eleitoral-solicita-informacoes-ao-facebook-e-a-shopee-sobre-perfis-investigados",
+        "type": "official",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "ia-publicacoes-maio",
+    "title": "Publicações com IA e associação a facções",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "status": "Remoção de publicações determinada",
+    "role": "Representado",
+    "updated": "2026-10-08",
+    "identifier": "Rp 0600955-65.2026.6.00.0000",
+    "summary": "O TSE determinou a retirada de três postagens de maio de 2026: uma com IA sem identificação e duas associando Lula a organizações criminosas.",
+    "details": "A decisão unânime confirmou a remoção e proibiu republicação. O tribunal apontou falta de identificação da IA e ausência de base factual suficiente para as associações.",
+    "defense": "Não foi localizada manifestação específica da defesa sobre esta decisão nas fontes consultadas.",
+    "limit": "Trata-se de decisão eleitoral sobre conteúdo. Não é condenação criminal nem o mesmo episódio do vídeo publicado em junho.",
+    "events": [
+      {
+        "date": "2026-10-08",
+        "title": "Remoção determinada",
+        "text": "TSE decidiu sobre três publicações de 30 e 31/05/2026."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2026-10-08",
+        "title": "Decisão sobre vídeos com IA e associações a facções",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-manda-retirar-do-ar-videos-com-uso-de-inteligencia-artificial-publicados-por-flavio-bolsonaro",
+        "type": "official",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "video-faccoes-junho",
+    "title": "Vídeo de junho associando Lula a PCC e CV",
+    "updated": "2026-10-08",
+    "status": "Multa eleitoral de R$ 5 mil",
+    "summary": "O TSE aplicou multa de R$ 5 mil por vídeo publicado em 03/06/2026 que associava Lula ao PCC e ao Comando Vermelho.",
+    "details": "O episódio é distinto das três postagens de maio examinadas em outra representação.",
+    "defense": "Não foi localizada manifestação específica da defesa sobre esta decisão nas fontes consultadas.",
+    "identifier": "",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "role": "Representado; sanção eleitoral",
+    "limit": "Sanção eleitoral, não condenação criminal. Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2026-10-08",
+        "title": "Decisão eleitoral localizada",
+        "text": "Multa eleitoral de R$ 5 mil."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2026-10-08",
+        "title": "Vídeo de junho associando Lula a PCC e CV — decisão e contexto",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/tse-aplica-multa-de-r-5-mil-a-flavio-por-ligar-lula-ao-pcc-e-ao-cv/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "celso-daniel",
+    "title": "Compartilhamento de entrevista sobre Celso Daniel",
+    "updated": "2023-05-18",
+    "status": "Multa eleitoral de R$ 10 mil",
+    "summary": "O TSE multou Flávio pelo compartilhamento de entrevista que associava Lula e o PT ao assassinato de Celso Daniel.",
+    "details": "A decisão foi tomada por maioria.",
+    "defense": "Houve voto divergente para excluir Flávio da punição, considerando que ele havia compartilhado a entrevista. Não foi localizada resposta adicional da defesa.",
+    "identifier": "",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "role": "Representado; sanção eleitoral",
+    "limit": "Sanção eleitoral, não condenação criminal. Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2023-05-18",
+        "title": "Decisão eleitoral localizada",
+        "text": "Multa eleitoral de R$ 10 mil."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2023-05-18",
+        "title": "Compartilhamento de entrevista sobre Celso Daniel — decisão e contexto",
+        "url": "https://www.cnnbrasil.com.br/politica/tse-multa-parlamentares-por-fake-news-que-liga-morte-de-celso-daniel-a-lula-e-pt/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "satanismo-2024",
+    "title": "Vídeo que associava Lula ao satanismo",
+    "updated": "2024-05-23",
+    "status": "Multa eleitoral de R$ 30 mil",
+    "summary": "O TSE aplicou multa a Flávio por divulgação de vídeo que associava Lula ao satanismo durante as eleições de 2022.",
+    "details": "A punição individual informada foi de R$ 30 mil.",
+    "defense": "A defesa discordou da decisão e anunciou recurso.",
+    "identifier": "",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "role": "Representado; sanção eleitoral",
+    "limit": "Sanção eleitoral, não condenação criminal. Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2024-05-23",
+        "title": "Decisão eleitoral localizada",
+        "text": "Multa eleitoral de R$ 30 mil."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Agência Brasil",
+        "date": "2024-05-23",
+        "title": "Vídeo que associava Lula ao satanismo — decisão e contexto",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-05/tse-multa-parlamentares-que-associaram-lula-ao-satanismo-nas-eleicoes",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2024-05-23",
+        "title": "Decisão sobre satanismo e reação da defesa",
+        "url": "https://www.cnnbrasil.com.br/politica/tse-multa-zambelli-flavio-gayer-e-influenciadores-por-associar-lula-a-satanismo/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "video-mei",
+    "title": "Vídeo com fala de Lula sobre microempreendedores",
+    "updated": "2023-09-19",
+    "status": "Multa eleitoral mantida",
+    "summary": "O TSE manteve multa individual de R$ 30 mil pela divulgação de vídeo com fala distorcida de Lula sobre microempreendedores individuais.",
+    "details": "A decisão também determinou retirada definitiva do conteúdo originado em debate de outubro de 2022.",
+    "defense": "O recurso contra a punição foi rejeitado. Argumentos adicionais da defesa não foram confirmados nesta ficha.",
+    "identifier": "",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "role": "Representado; sanção eleitoral",
+    "limit": "Sanção eleitoral, não condenação criminal. Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2023-09-19",
+        "title": "Decisão eleitoral localizada",
+        "text": "Multa eleitoral mantida."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "R7",
+        "date": "2023-09-19",
+        "title": "Vídeo com fala de Lula sobre microempreendedores — decisão e contexto",
+        "url": "https://noticias.r7.com/brasilia/tse-mantem-multa-de-r-30-mil-a-flavio-bolsonaro-por-divulgar-video-de-lula-com-fala-distorcida-19092023/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "aposentados-2023",
+    "title": "Vídeo sobre prejuízo a aposentados",
+    "updated": "2023-04-18",
+    "status": "Multa eleitoral de R$ 15 mil mantida",
+    "summary": "O TSE manteve multa de R$ 15 mil e a retirada de vídeo que atribuía ao PT prejuízo financeiro a aposentados.",
+    "details": "O processo decorre de conteúdo divulgado na eleição de 2022.",
+    "defense": "A defesa recorreu; a maioria do tribunal manteve a sanção.",
+    "identifier": "Rp 0601756-20.2022.6.00.0000",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "role": "Representado; sanção eleitoral",
+    "limit": "Sanção eleitoral, não condenação criminal. Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2023-04-18",
+        "title": "Decisão eleitoral localizada",
+        "text": "Multa eleitoral de R$ 15 mil mantida."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Migalhas",
+        "date": "2023-04-18",
+        "title": "Vídeo sobre prejuízo a aposentados — decisão e contexto",
+        "url": "https://www.migalhas.com.br/quentes/385087/eleicoes-tse-mantem-multa-a-zambelli-e-flavio-bolsonaro-por-fake-news",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "video-demonio",
+    "title": "Fala recortada de Lula sobre “demônio”",
+    "updated": "2023-05-05",
+    "status": "Multa eleitoral de R$ 5 mil",
+    "summary": "O TSE multou Flávio por divulgar um recorte de fala que associava Lula ao demônio, alterando o sentido do pronunciamento.",
+    "details": "Na fala original, Lula negava a associação. A decisão foi noticiada após o julgamento encerrado em 05/05/2023.",
+    "defense": "Não foi localizada manifestação específica da defesa sobre esta decisão nas fontes consultadas.",
+    "identifier": "",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "role": "Representado; sanção eleitoral",
+    "limit": "Sanção eleitoral, não condenação criminal. Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2023-05-05",
+        "title": "Decisão eleitoral localizada",
+        "text": "Multa eleitoral de R$ 5 mil."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "CNN Brasil",
+        "date": "2023-05-05",
+        "title": "Fala recortada de Lula sobre “demônio” — decisão e contexto",
+        "url": "https://www.cnnbrasil.com.br/politica/tse-multa-flavio-bolsonaro-em-r-5-mil-por-divulgar-video-associando-lula-a-demonio/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "video-nikolas",
+    "title": "Compartilhamento do vídeo “faz o L”",
+    "updated": "2023-05-11",
+    "status": "Multa eleitoral aplicada",
+    "summary": "O TSE aplicou multa a Flávio e outros divulgadores de vídeo de Nikolas Ferreira com acusações contra Lula na campanha de 2022.",
+    "details": "A representação questionou alegações sobre incentivo a crimes, drogas e censura.",
+    "defense": "Não foi localizada manifestação específica da defesa sobre esta decisão nas fontes consultadas.",
+    "identifier": "Rp 0601399-40.2022.6.00.0000",
+    "category": "Eleitoral",
+    "court": "Tribunal Superior Eleitoral",
+    "state": "decisao",
+    "role": "Representado; sanção eleitoral",
+    "limit": "Sanção eleitoral, não condenação criminal. Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2023-05-11",
+        "title": "Decisão eleitoral localizada",
+        "text": "Multa eleitoral aplicada."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Migalhas",
+        "date": "2023-05-11",
+        "title": "Compartilhamento do vídeo “faz o L” — decisão e contexto",
+        "url": "https://www.migalhas.com.br/quentes/386376/tse-multa-deputados-e-senador-por-fake-news-contra-lula-nas-eleicoes",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "chico-buarque",
+    "title": "Uso da capa de disco de Chico Buarque",
+    "category": "Cível",
+    "court": "Tribunal de Justiça do Rio de Janeiro",
+    "state": "decisao",
+    "status": "Condenação reformada em recurso",
+    "role": "Réu em ação cível",
+    "updated": "2024-04-03",
+    "summary": "A condenação de Flávio ao pagamento de R$ 48 mil por montagem com capa de disco de Chico Buarque foi derrubada pela Turma Recursal.",
+    "details": "O episódio ocorreu na campanha de 2022. A reforma foi noticiada em abril de 2024; o advogado do músico anunciou recurso.",
+    "defense": "A defesa sustentou tratar-se de reflexão política sem ofensa. A turma afastou dano direto e autoria comprovada do meme.",
+    "limit": "Não foi confirmado desfecho posterior nas fontes consultadas. A data indica o último registro localizado, não uma consulta integral aos autos.",
+    "events": [
+      {
+        "date": "2024-04-03",
+        "title": "Reforma da condenação noticiada",
+        "text": "A indenização imposta em primeira instância foi afastada."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "SBT News",
+        "date": "2024-04-03",
+        "title": "Turma Recursal derruba indenização a Chico Buarque",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/justica-do-rio-derruba-indenizacao-de-flavio-bolsonaro-a-chico-buarque",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "fotografa",
+    "title": "Uso de fotografia de Ana Carolina Fernandes",
+    "category": "Cível",
+    "court": "3ª Vara Cível do Rio de Janeiro",
+    "state": "decisao",
+    "status": "Condenação cível de primeira instância",
+    "role": "Réu em ação cível",
+    "updated": "2024-03-14",
+    "summary": "Flávio foi condenado em primeira instância a pagar R$ 15 mil pelo uso de fotografia sem autorização e com desvio de finalidade.",
+    "details": "A sentença, de 11/03/2024, tratou de imagem de uma manifestação. A reportagem informou que cabia recurso.",
+    "defense": "O UOL informou ter procurado a defesa, sem resposta até a publicação.",
+    "limit": "Não foi confirmado resultado recursal. A reportagem cita outra ação da família retratada, sob sigilo; seus detalhes não foram incluídos.",
+    "events": [
+      {
+        "date": "2024-03-11",
+        "title": "Sentença cível",
+        "text": "Indenização de R$ 15 mil determinada em primeira instância."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "UOL",
+        "date": "2024-03-14",
+        "title": "Condenação cível por uso de fotografia",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/03/14/flavio-bolsonaro-pagar-r-15-mil-fotografa-uso-indevido-imagem.htm",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "declaracao-bens-2014",
+    "title": "Declaração de bens na eleição de 2014",
+    "category": "Eleitoral",
+    "court": "Tribunal Regional Eleitoral do Rio de Janeiro",
+    "state": "encerrado",
+    "status": "Inquérito trancado",
+    "role": "Investigado por possível falsidade eleitoral",
+    "updated": "2023-05-23",
+    "identifier": "Inquérito 0600122-62.2021.6.19.0204",
+    "summary": "O TRE-RJ trancou investigação sobre suposta falsidade ideológica eleitoral na declaração de bens de 2014, por excesso de prazo.",
+    "details": "A apuração havia começado em maio de 2018. PF e Ministério Público Eleitoral pediram arquivamento antes do julgamento do habeas corpus.",
+    "defense": "A defesa obteve o habeas corpus que determinou o trancamento.",
+    "limit": "O fundamento divulgado foi a duração excessiva da investigação. A notícia é de 23/05/2023; uma atualização técnica da página em 2025 não corresponde a novo julgamento.",
+    "events": [
+      {
+        "date": "2023-05-23",
+        "title": "Habeas corpus concedido",
+        "text": "TRE-RJ determinou o trancamento do inquérito."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TRE-RJ",
+        "date": "2023-05-23",
+        "title": "TRE-RJ concede habeas corpus sobre declaração de bens",
+        "url": "https://www.tre-rj.jus.br/comunicacao/noticias/2023/Maio/tre-rj-concede-habeas-corpus-a-flavio-bolsonaro",
+        "type": "official",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "santini-contas",
+    "title": "Cobrança do ex-sócio da loja de chocolates",
+    "category": "Cível",
+    "court": "Tribunal de Justiça do Distrito Federal",
+    "state": "investigacao",
+    "status": "Cobrança noticiada; desfecho não confirmado",
+    "role": "Réu em ação cível de cobrança",
+    "updated": "2023-12-12",
+    "summary": "Alexandre Santini ajuizou cobrança de R$ 1,47 milhão contra Flávio, alegando divisão desigual de lucros e pagamentos sem reembolso na sociedade da loja de chocolates.",
+    "details": "Segundo a reportagem, a ação de Santini foi proposta em novembro de 2023. As alegações financeiras são do ex-sócio; não foi localizada decisão de mérito sobre essa cobrança.",
+    "defense": "Flávio foi procurado pelo Estadão e não se manifestou até a publicação da reportagem consultada.",
+    "limit": "O desfecho e o número desta ação não foram confirmados. A extinção de outra ação, proposta por Flávio para exigir contas, não decide a cobrança promovida por Santini.",
+    "events": [
+      {
+        "date": "2023-12-12",
+        "title": "Cobrança judicial noticiada",
+        "text": "A reportagem registra ação proposta pelo ex-sócio em novembro de 2023; o dia do ajuizamento não foi confirmado."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Estadão Conteúdo / UOL",
+        "date": "2023-12-12",
+        "title": "Reportagem registra cobrança judicial de Santini contra Flávio",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2023/12/12/justica-nega-pedido-de-flavio-bolsonaro-sobre-prestacao-de-contas-de-ex-socio.htm",
+        "type": "press",
+        "note": "A mesma matéria aborda outra ação, de iniciativa de Flávio."
+      }
+    ]
+  }
+]
