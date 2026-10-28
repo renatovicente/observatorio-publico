@@ -100,7 +100,7 @@ A cada execução autorizada, aplique os critérios atuais desta skill, inclusiv
 2. Compare o que aconteceu com a situação anterior. Atualize `status`, `role`, `state`, `summary`, `details`, `defense`, `limit`, eventos e fontes quando houver mudança sustentada. Use a data da movimentação/publicação substantiva em `updated`, não a data da execução em todas as fichas.
 3. Aplique a tabela abaixo. Decisão parcial, liminar, recurso e decisão final são coisas distintas. Não transfira a Lula ou Flávio o resultado de corréu, parente ou processo relacionado.
 4. Revise `dist/case-status.mjs`, inclusive exceções por ID, para a ficha passar ao grupo correto. Revise a justificativa e a faixa de gravidade somente se o objeto/impacto potencial documentado mudar. Denúncia recebida, recurso ou condenação não aumentam a faixa automaticamente.
-5. Atualize a tradução correspondente e somente o hash do original revisado. Gere as quatro listas, valide paridade, elegibilidade, faixas e contagens. Confira no navegador as duas abas e os dois idiomas: nenhuma ficha encerrada deve aparecer em casos, busca, cronologia, biblioteca, link direto ou download.
+5. Atualize a tradução correspondente e somente o hash do original revisado. Gere as quatro listas, valide paridade, elegibilidade, faixas e contagens. Confira no navegador as duas abas e os dois idiomas: nenhuma ficha encerrada deve aparecer em casos, busca, cronologia, biblioteca, link direto ou download. Inclua a revisão mobile abaixo, pois novos títulos, situações e resumos também podem afetar o layout.
 6. Publique fontes, traduções, hashes, classificação e dados gerados no mesmo commit. Confirme o workflow do commit e a versão pública. Relate objetivamente as entradas, saídas e mudanças de situação/faixa, sem chamar quantidade de fichas de quantidade de crimes. Não anuncie reclassificações ou publicação não verificadas.
 
 | Movimentação confirmada | Classificação e exibição |
@@ -116,6 +116,16 @@ A cada execução autorizada, aplique os critérios atuais desta skill, inclusiv
 | Informação contraditória, autos sigilosos ou desfecho não confirmado | Expor a limitação, manter apenas o último estado documentado e buscar fonte melhor; não inventar encerramento, trânsito ou andamento atual. |
 
 As contagens são derivadas dos dados filtrados, nunca preenchidas manualmente. O total da aba deve coincidir com a soma das cinco faixas; as ordens e os tons devem ser os mesmos em português e inglês. O tom mais intenso de vermelho corresponde à faixa mais grave, independentemente do resultado ou fase processual.
+
+## Preservar a qualidade no mobile
+
+A leitura em celular faz parte da manutenção semanal, inclusive quando só os dados mudam. Preserve os ajustes responsivos de `dist/styles.css` nas duas línguas e abas; textos novos devem se adaptar ao espaço disponível, sem reduzir a fonte ou esconder informações para caber.
+
+- Mantenha os resumos, a metodologia e os textos das fichas legíveis sem zoom: a referência atual é 15 px no mobile. Campos de busca e seletores usam 16 px; controles de navegação, filtros e ações têm área de toque de pelo menos 44 px de altura. Os links PT/EN têm área mínima de 44 × 44 px.
+- Abas de visualização e categorias devem permanecer inteiras e acessíveis, quebrando em linhas quando necessário. Evite rolagem horizontal da página, sobreposição, reticências ou cortes em títulos, situação, contagens e fontes. Não use `overflow-x:hidden` para mascarar conteúdo que excede a tela.
+- Em telas estreitas, mantenha os dados das fichas em uma coluna, texto e links longos com quebra adequada e o botão de fechar acessível durante a rolagem. Preserve as contagens por gravidade e a paleta Noite e cobre com os tons de vermelho já definidos.
+- Em cada atualização semanal, inspecione no navegador os cartões e fichas alterados em português e inglês a 320 e 390 px de largura, incluindo um título ou situação longo. Quando houver mudança de interface, confira também 430 px, uma largura de tablet (768 px) e desktop (1280 px), nas duas abas pessoais. Verifique busca, filtros, troca de idioma, abertura/fechamento da ficha e acesso à cronologia, fontes e metodologia conforme as áreas afetadas.
+- Corrija problemas encontrados antes de publicar e confira uma tela mobile representativa no site público após o deploy. Registre as larguras e verificações efetivamente realizadas. Se o ambiente não oferecer navegador ou ajuste de viewport, informe a limitação; validação de HTML ou dados, por si só, não comprova qualidade visual. Não declare teste em aparelho físico quando só houver simulação de largura.
 
 ## Validar e publicar
 
