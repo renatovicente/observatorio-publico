@@ -4,7 +4,7 @@
 
 Public documentary archive in Portuguese and English, with sources, procedural outcomes, defense responses and an explicit editorial severity ordering.
 
-Website estático em português e inglês, com pesquisa documental encerrada em 27/10/2026. Possui duas abas independentes. A de Flávio Bolsonaro reúne ações, investigações e pedidos de apuração dirigidos contra ele. A de Lula reúne somente processos e investigações efetivamente instaurados contra Luiz Inácio Lula da Silva, excluindo casos de parentes, aliados e simples pedidos sem instauração confirmada. Casos encerrados ficam preservados nas fontes de manutenção e não são exibidos no site. Ações propostas pelas próprias pessoas e menções contextuais ficam fora dos respectivos acervos. O acervo não é uma certidão judicial nem promete exaustividade. A versão inglesa traduz a mesma edição; sua criação não representa uma nova pesquisa factual.
+Website estático em português e inglês. O dossiê de Flávio foi revisto até 02/11/2026; o dossiê de Lula permanece com pesquisa documental encerrada em 27/10/2026. Possui duas abas independentes. A de Flávio Bolsonaro reúne ações, investigações e pedidos de apuração dirigidos contra ele. A de Lula reúne somente processos e investigações efetivamente instaurados contra Luiz Inácio Lula da Silva, excluindo casos de parentes, aliados e simples pedidos sem instauração confirmada. Casos encerrados ficam preservados nas fontes de manutenção e não são exibidos no site. Ações propostas pelas próprias pessoas e menções contextuais ficam fora dos respectivos acervos. O acervo não é uma certidão judicial nem promete exaustividade. A versão inglesa traduz a mesma edição; sua criação não representa uma nova pesquisa factual.
 
 ## Executar
 

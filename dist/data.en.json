@@ -129,14 +129,14 @@
     "category": "Criminal",
     "court": "STF · Federal Police",
     "state": "investigacao",
-    "status": "Investigation with interim restrictions",
+    "status": "Investigation with interim restrictions; alleged breach under inquiry",
     "role": "Under investigation",
-    "updated": "2026-10-26",
-    "identifier": "Sealed inquiry; number not confirmed",
-    "summary": "An inquiry separate from Dark Horse is examining suspected money laundering and unlawful transfers of funds abroad. On 26 October 2026, CNN reported travel restrictions and a ban on contact with Willer Tomaz.",
-    "details": "The inquiry arose from an investigation into payments and betting in Rio Grande do Sul. According to news reports, the Federal Police are examining whether Flávio held an economic interest in companies linked to Tomaz. CNN reported that Moraes ordered the cancellation of his Brazilian passport and the surrender of travel documents issued by other countries.",
-    "defense": "Flávio denies holding a joint account or an ownership stake. His defense says a database entry linking him to a company was incorrect and was being corrected. He said he would comply with the order, while criticizing it. Tomaz also denies wrongdoing.",
-    "limit": "The interim measures are described by the press on the basis of a sealed decision. They do not constitute a conviction. Tomaz’s involvement in another investigation concerning the INSS does not automatically make Flávio a subject of that inquiry.",
+    "updated": "2026-10-30",
+    "identifier": "STF Petition 16,877/DF",
+    "summary": "An inquiry separate from Dark Horse is examining suspected money laundering and unlawful transfers abroad. The Federal Police confirmed travel and contact restrictions and said it is investigating the circumstances of the alleged breach of the orders.",
+    "details": "The inquiry arose from an investigation into payments and betting in Rio Grande do Sul. According to news reports, the Federal Police are examining whether Flávio held an economic interest in companies linked to Willer Tomaz. On 28 October, the Federal Police said his Brazilian passports had been cancelled, that any foreign travel documents had not been surrendered by the deadline and that no official departure through a migration checkpoint had been found. The agency began investigating the circumstances of the alleged breach.",
+    "defense": "Flávio denies holding a joint account, having an ownership stake or committing wrongdoing. In petitions filed on 30 October, his defense sought Alexandre de Moraes’s removal as rapporteur, reassignment to André Mendonça and revocation of the restrictions; it argued that friendship explained travel and contacts and that Santander had not confirmed Flávio’s participation in the account mentioned. Willer Tomaz also denies wrongdoing.",
+    "limit": "The interim restrictions and the inquiry into their alleged breach do not constitute a conviction. The Federal Police clarified that restrictions on travel documents alone do not make a person a fugitive or authorize arrest. The case is sealed, and no ruling on the defense requests was located. Tomaz’s involvement in the INSS case does not automatically make Flávio a subject of that investigation.",
     "events": [
       {
         "date": "2026-10-16",
@@ -146,7 +146,17 @@
       {
         "date": "2026-10-26",
         "title": "Interim restrictions reported",
-        "text": "Restrictions on travel documents and a ban on contact with Tomaz."
+        "text": "Travel restrictions, surrender of documents and a ban on contact with Tomaz were ordered."
+      },
+      {
+        "date": "2026-10-28",
+        "title": "Federal Police confirm inquiry into alleged breach",
+        "text": "An official statement said the agency is investigating the circumstances of the alleged breach of the court orders."
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Defense challenges rapporteur and restrictions",
+        "text": "The defense sought Moraes’s removal, reassignment of the case and revocation of the restrictions."
       }
     ],
     "sources": [
@@ -179,6 +189,22 @@
         "date": "2026-10-26",
         "title": "Flávio’s response to the demand for his passports",
         "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pf-exigiu-seus-passaportes-apos-visita-a-bolsonaro/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "Polícia Federal",
+        "date": "2026-10-28",
+        "title": "Official statement on restrictions and the inquiry into the alleged breach",
+        "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-3",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "Folha de S.Paulo",
+        "date": "2026-11-02",
+        "title": "Defense seeks Moraes’s removal and revocation of the restrictions",
+        "url": "https://www1.folha.uol.com.br/poder/2026/11/defesa-de-flavio-bolsonaro-pede-que-moraes-seja-impedido-de-relatar-inquerito-e-quer-troca-por-mendonca.shtml",
         "type": "press",
         "note": ""
       }
@@ -1021,6 +1047,171 @@
         "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2023/12/12/justica-nega-pedido-de-flavio-bolsonaro-sobre-prestacao-de-contas-de-ex-socio.htm",
         "type": "press",
         "note": "The same article covers a separate case initiated by Flávio."
+      }
+    ]
+  },
+  {
+    "id": "videos-inss-outubro-2026",
+    "title": "Videos linking Lula to alleged INSS fraud",
+    "category": "Electoral",
+    "court": "Superior Electoral Court",
+    "state": "decisao",
+    "status": "Interim removal of posts",
+    "role": "Respondent in a right-of-reply case",
+    "updated": "2026-10-15",
+    "identifier": "Right of Reply 0601901-37.2026.6.00.0000",
+    "summary": "By majority, the TSE ordered the removal of posts by Flávio, the PL and Nikolas Ferreira that linked Lula to allegations involving his son in investigations into fraud against INSS pensioners.",
+    "details": "The full court left online criticism based on remarks about sanitation workers but ordered the material linking Lula to allegations concerning his son removed within 24 hours. The ruling found that the message could imply criminal conduct without factual support.",
+    "defense": "Rapporteur André Mendonça voted to keep the material online, reasoning that the references were supported by news reports and investigations. No specific statement by Flávio was located in the source consulted.",
+    "limit": "The measure is interim and does not decide the merits of the case. It is an electoral ruling about content, not a criminal conviction.",
+    "events": [
+      {
+        "date": "2026-10-15",
+        "title": "Interim removal ordered",
+        "text": "The TSE ordered the posts concerning the INSS allegations made unavailable within 24 hours."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2026-10-15",
+        "title": "TSE removes posts linking Lula to alleged INSS fraud",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-retira-do-ar-publicacoes-que-associam-lula-a-supostas-fraudes-no-inss",
+        "type": "official",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "pgr-pagamentos-escritorio",
+    "title": "Request to the PGR concerning R$4 million in payments to a law firm",
+    "category": "Criminal",
+    "court": "Office of the Prosecutor-General",
+    "state": "pedido",
+    "status": "Complaint filed; opening of an investigation unconfirmed",
+    "role": "Subject of a request for investigation",
+    "updated": "2026-10-21",
+    "summary": "Rui Falcão asked the PGR to investigate two R$2 million payments made in 2025 by Nilo & Almeida Advogados to Flávio’s sole-practitioner law firm before Edvaldo Nilo de Almeida was reconfirmed to the CNMP.",
+    "details": "The complaint, dated 21 October 2026, seeks an inquiry into possible corruption, money laundering and false statements and requests service records, tracing of the funds and possible lifting of confidentiality protections. Flávio took part in the secret Senate vote on the reconfirmation; public records do not disclose how he voted.",
+    "defense": "Edvaldo Nilo said the payments compensated joint legal work for private clients and involved no public funds. According to the report, Flávio’s campaign did not answer questions about the services and amounts.",
+    "limit": "The complaint does not establish that an inquiry was opened or that the alleged offenses occurred. The source consulted does not identify the clients or matters, and the secret ballot does not show how Flávio voted.",
+    "events": [
+      {
+        "date": "2026-10-21",
+        "title": "Complaint submitted to the PGR",
+        "text": "The document requested an inquiry into the payments and any connection with the Senate vote."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Estadão Conteúdo / UOL",
+        "date": "2026-10-29",
+        "title": "Rui Falcão asks the PGR to investigate payments to Flávio’s law firm",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/29/rui-falcao-pt-aciona-pgr-para-investigar-r-4-milhoes-pagos-a-escritorio-de-flavio-bolsonaro.amp.htm",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "pf-carta-brasao",
+    "title": "Request for inquiry into a letter and use of Brazil’s coat of arms",
+    "category": "Criminal",
+    "court": "Federal Police · PGR · STF",
+    "state": "pedido",
+    "status": "Report filed; inquiry unconfirmed",
+    "role": "Subject of a request for investigation",
+    "updated": "2026-10-28",
+    "summary": "Ten lawyers asked the Federal Police to investigate the use of Brazil’s coat of arms in a letter in which Flávio described himself as president-elect after losing the election.",
+    "details": "The report alleges a possible offense against public faith and requests an inquiry into the authorship, production and dissemination of the letter, any use of parliamentary-office resources, his departure from Brazil and any acts before foreign authorities. The applicants asked for the matter to be sent to the STF and notified to the PGR.",
+    "defense": "No statement by Flávio specifically addressing this report was located in the source consulted.",
+    "limit": "The information comes from a single identified news report. Filing the report does not mean that the Federal Police or the STF opened an inquiry, nor does it establish the alleged offenses.",
+    "events": [
+      {
+        "date": "2026-10-28",
+        "title": "Report filed",
+        "text": "Lawyers requested a criminal inquiry and referral of the matter to the STF."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "ICL Notícias",
+        "date": "2026-10-29",
+        "title": "Lawyers request inquiry into the letter and use of an official symbol",
+        "url": "https://iclnoticias.com.br/flavio-bolsonaro-e-denunciado-a-pf-por-crime-contra-a-fe-publica-em-carta-golpista/",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "etica-pce-23-2026",
+    "title": "Ethics: departure from Brazil and court order",
+    "category": "Parliamentary",
+    "court": "Senate Ethics Council",
+    "state": "pedido",
+    "status": "Petition; admission unconfirmed",
+    "role": "Subject of a disciplinary request",
+    "updated": "2026-10-29",
+    "identifier": "PCE 23/2026",
+    "summary": "A citizen’s petition seeks disciplinary proceedings against Flávio and possible loss of office based on an alleged breach of a court order and his departure from Brazil.",
+    "details": "The Senate lists the petition as awaiting appointment of committee members. The applicant seeks information from the STF, Federal Police and Senate and states that any sanction depends on investigation, an opportunity to respond and decisions by the competent bodies.",
+    "defense": "No statement by Flávio specifically addressing this proceeding was located. In STF filings, his defense challenged the travel restrictions and sought their revocation.",
+    "limit": "Filing the petition is not equivalent to opening or admitting disciplinary proceedings. The Senate portal records no decision on the merits.",
+    "events": [
+      {
+        "date": "2026-10-29",
+        "title": "Petition filed with the Ethics Council",
+        "text": "The Senate portal began listing PCE 23/2026 as awaiting appointment of committee members."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Senado Federal",
+        "date": "2026-10-29",
+        "title": "Official record of PCE 23/2026",
+        "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176146",
+        "type": "official",
+        "note": ""
+      },
+      {
+        "publisher": "Atlas Público",
+        "date": "2026-10-29",
+        "title": "Documentary summary of the complaint and requested measures",
+        "url": "https://atlaspublico.com.br/senado/noticias/advogado-protocola-no-senado-denuncia-por-quebra-de-decoro-96122",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "acao-popular-salario",
+    "title": "Public-interest action concerning salary and parliamentary funds",
+    "category": "Civil",
+    "court": "6th Federal Court in Rio de Janeiro",
+    "state": "pedido",
+    "status": "Action assigned; request undecided",
+    "role": "Direct subject of a request in a public-interest action",
+    "updated": "2026-10-31",
+    "summary": "Two lawyers filed a public-interest action seeking suspension of Flávio’s salary, parliamentary-office funds, housing allowance and parliamentary expense allowance while he remains abroad.",
+    "details": "The applicants argue that remaining outside Brazil makes performance of the mandate impossible and that continued payments would harm public funds and administrative integrity. The report says the case was assigned to the 6th Federal Court in Rio de Janeiro.",
+    "defense": "Agência Brasil said it had contacted Flávio’s office and remained open to adding a response.",
+    "limit": "Assignment is not equivalent to an injunction, final admission or a ruling on the merits. No case number or court ruling was located in the source consulted.",
+    "events": [
+      {
+        "date": "2026-10-31",
+        "title": "Public-interest action assigned",
+        "text": "The report records assignment to the 6th Federal Court in Rio de Janeiro, with no ruling on the request."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Agência Brasil",
+        "date": "2026-10-31",
+        "title": "Public-interest action seeks suspension of the senator’s salary and funds",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro",
+        "type": "press",
+        "note": ""
       }
     ]
   }
