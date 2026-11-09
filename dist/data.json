@@ -1214,5 +1214,122 @@
         "note": ""
       }
     ]
+  },
+  {
+    "id": "aije-dark-horse-eleitoral",
+    "title": "AIJE sobre possível benefício eleitoral do filme Dark Horse",
+    "category": "Eleitoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitida; mérito pendente",
+    "role": "Investigado",
+    "updated": "2026-11-05",
+    "summary": "O TSE admitiu ação que apura se recursos ligados ao filme Dark Horse beneficiaram eleitoralmente a candidatura de Flávio Bolsonaro.",
+    "details": "A Coligação Brasil Pronto para Mais sustenta que valores solicitados por Flávio a Daniel Vorcaro para financiar a cinebiografia de Jair Bolsonaro podem ter favorecido a campanha, por meio do próprio filme ou de outras destinações, inclusive nos Estados Unidos. O corregedor-geral eleitoral, Ricardo Villas Bôas Cueva, considerou presentes os requisitos formais para processar a AIJE.",
+    "defense": "O UOL informou ter procurado a campanha de Flávio; nenhuma resposta constava da reportagem publicada em 6 de novembro.",
+    "limit": "A decisão examinou apenas a admissibilidade. A alegação de benefício eleitoral ainda será investigada e não constitui conclusão sobre abuso ou irregularidade. Esta AIJE é distinta da investigação criminal sobre o financiamento do filme.",
+    "events": [
+      {
+        "date": "2026-11-05",
+        "title": "AIJE admitida",
+        "text": "O corregedor-geral eleitoral recebeu a ação para apuração, sem decidir o mérito das acusações."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Veja",
+        "date": "2026-11-06",
+        "title": "TSE abre três novas investigações eleitorais contra Flávio Bolsonaro",
+        "url": "https://veja.abril.com.br/brasil/tse-abre-tres-novas-investigacoes-eleitorais-contra-flavio-bolsonaro/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-06",
+        "title": "TSE abre três ações eleitorais contra Flávio Bolsonaro",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/06/tse-abre-3-acoes-contra-flavio-por-milicias-filme-e-pressao-nos-eua.ghtm",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "aije-grupos-armados-rj",
+    "title": "AIJE sobre influência de grupos armados na votação no Rio",
+    "category": "Eleitoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitida; mérito pendente",
+    "role": "Investigado",
+    "updated": "2026-11-05",
+    "summary": "O TSE admitiu ação que investiga possível efeito eleitoral do controle territorial de organizações criminosas no Rio de Janeiro sobre a candidatura de Flávio Bolsonaro.",
+    "details": "A ação da Coligação Brasil Pronto para Mais questiona se o domínio territorial de milícias e do Comando Vermelho interferiu na liberdade de escolha dos eleitores e cita alegadas ligações de aliados de Flávio com esses grupos. O corregedor-geral eleitoral considerou presentes os requisitos formais para o processamento.",
+    "defense": "O UOL informou ter procurado a campanha de Flávio; nenhuma resposta constava da reportagem publicada em 6 de novembro.",
+    "limit": "A admissão da AIJE não confirma influência sobre a votação nem vínculo de Flávio com organizações criminosas. As referências a aliados e grupos integram as alegações da parte autora e dependem de prova e contraditório.",
+    "events": [
+      {
+        "date": "2026-11-05",
+        "title": "AIJE admitida",
+        "text": "O corregedor-geral eleitoral recebeu a ação para investigação, sem decidir o mérito das alegações."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Veja",
+        "date": "2026-11-06",
+        "title": "TSE abre três novas investigações eleitorais contra Flávio Bolsonaro",
+        "url": "https://veja.abril.com.br/brasil/tse-abre-tres-novas-investigacoes-eleitorais-contra-flavio-bolsonaro/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-06",
+        "title": "TSE abre três ações eleitorais contra Flávio Bolsonaro",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/06/tse-abre-3-acoes-contra-flavio-por-milicias-filme-e-pressao-nos-eua.ghtm",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "aije-pressao-eua",
+    "title": "AIJE sobre pressão por retaliações dos Estados Unidos",
+    "category": "Eleitoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitida; mérito pendente",
+    "role": "Investigado",
+    "updated": "2026-11-05",
+    "summary": "O TSE admitiu ação que apura se a atuação de Eduardo Bolsonaro e apoiadores junto ao governo dos Estados Unidos produziu benefício eleitoral para Flávio Bolsonaro.",
+    "details": "A Coligação Brasil Pronto para Mais atribui a Eduardo Bolsonaro e aliados pressão por medidas de retaliação dos Estados Unidos contra o Brasil e pede apuração de possível abuso de poder e uso indevido dos meios de comunicação em favor da candidatura. Flávio, Eduardo e Alfredo Gaspar estão entre os investigados descritos pelas reportagens.",
+    "defense": "O UOL informou ter procurado a campanha de Flávio; nenhuma resposta constava da reportagem publicada em 6 de novembro.",
+    "limit": "O recebimento da ação avalia apenas requisitos formais. Não houve decisão de mérito nem confirmação de que Flávio tenha praticado pessoalmente os atos atribuídos a Eduardo e a outros apoiadores ou obtido benefício eleitoral.",
+    "events": [
+      {
+        "date": "2026-11-05",
+        "title": "AIJE admitida",
+        "text": "O corregedor-geral eleitoral determinou o processamento da ação; as acusações permanecem sujeitas a investigação e defesa."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Veja",
+        "date": "2026-11-06",
+        "title": "TSE abre três novas investigações eleitorais contra Flávio Bolsonaro",
+        "url": "https://veja.abril.com.br/brasil/tse-abre-tres-novas-investigacoes-eleitorais-contra-flavio-bolsonaro/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-06",
+        "title": "TSE abre três ações eleitorais contra Flávio Bolsonaro",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/06/tse-abre-3-acoes-contra-flavio-por-milicias-filme-e-pressao-nos-eua.ghtm",
+        "type": "press",
+        "note": ""
+      }
+    ]
   }
 ]

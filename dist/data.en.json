@@ -1214,5 +1214,122 @@
         "note": ""
       }
     ]
+  },
+  {
+    "id": "aije-dark-horse-eleitoral",
+    "title": "AIJE on a possible electoral benefit from the film Dark Horse",
+    "category": "Electoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitted; merits pending",
+    "role": "Under investigation",
+    "updated": "2026-11-05",
+    "summary": "The TSE admitted an action investigating whether funds connected to the film Dark Horse provided an electoral benefit to Flávio Bolsonaro’s candidacy.",
+    "details": "The Brasil Pronto para Mais coalition alleges that funds Flávio sought from Daniel Vorcaro to finance the Jair Bolsonaro biopic may have benefited the campaign through the film itself or other uses, including in the United States. Electoral Inspector General Ricardo Villas Bôas Cueva found that the formal requirements for processing the AIJE were met.",
+    "defense": "UOL reported that it had contacted Flávio’s campaign; no response appeared in the report published on 6 November.",
+    "limit": "The ruling addressed admissibility only. The alleged electoral benefit remains under investigation and is not a finding of abuse or wrongdoing. This AIJE is separate from the criminal inquiry into the film’s financing.",
+    "events": [
+      {
+        "date": "2026-11-05",
+        "title": "AIJE admitted",
+        "text": "The Electoral Inspector General admitted the action for investigation without ruling on the merits of the allegations."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Veja",
+        "date": "2026-11-06",
+        "title": "TSE opens three new electoral investigations into Flávio Bolsonaro",
+        "url": "https://veja.abril.com.br/brasil/tse-abre-tres-novas-investigacoes-eleitorais-contra-flavio-bolsonaro/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-06",
+        "title": "TSE opens three electoral actions against Flávio Bolsonaro",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/06/tse-abre-3-acoes-contra-flavio-por-milicias-filme-e-pressao-nos-eua.ghtm",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "aije-grupos-armados-rj",
+    "title": "AIJE on the influence of armed groups on voting in Rio",
+    "category": "Electoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitted; merits pending",
+    "role": "Under investigation",
+    "updated": "2026-11-05",
+    "summary": "The TSE admitted an action investigating the possible electoral effect of criminal organizations’ territorial control in Rio de Janeiro on Flávio Bolsonaro’s candidacy.",
+    "details": "The Brasil Pronto para Mais coalition asks whether territorial control by militias and Comando Vermelho interfered with voters’ freedom of choice and cites alleged links between Flávio’s allies and those groups. The Electoral Inspector General found that the formal requirements for processing the action were met.",
+    "defense": "UOL reported that it had contacted Flávio’s campaign; no response appeared in the report published on 6 November.",
+    "limit": "Admission of the AIJE does not confirm influence on voting or any link between Flávio and criminal organizations. References to allies and groups are allegations by the applicant and remain subject to evidence and an opportunity to respond.",
+    "events": [
+      {
+        "date": "2026-11-05",
+        "title": "AIJE admitted",
+        "text": "The Electoral Inspector General admitted the action for investigation without ruling on the merits of the allegations."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Veja",
+        "date": "2026-11-06",
+        "title": "TSE opens three new electoral investigations into Flávio Bolsonaro",
+        "url": "https://veja.abril.com.br/brasil/tse-abre-tres-novas-investigacoes-eleitorais-contra-flavio-bolsonaro/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-06",
+        "title": "TSE opens three electoral actions against Flávio Bolsonaro",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/06/tse-abre-3-acoes-contra-flavio-por-milicias-filme-e-pressao-nos-eua.ghtm",
+        "type": "press",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "aije-pressao-eua",
+    "title": "AIJE on pressure for United States retaliation",
+    "category": "Electoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitted; merits pending",
+    "role": "Under investigation",
+    "updated": "2026-11-05",
+    "summary": "The TSE admitted an action investigating whether efforts by Eduardo Bolsonaro and supporters directed at the United States government produced an electoral benefit for Flávio Bolsonaro.",
+    "details": "The Brasil Pronto para Mais coalition attributes to Eduardo Bolsonaro and allies pressure for United States retaliatory measures against Brazil and seeks an inquiry into possible abuse of power and misuse of the media in support of the candidacy. Flávio, Eduardo and Alfredo Gaspar are among the subjects described in the reports.",
+    "defense": "UOL reported that it had contacted Flávio’s campaign; no response appeared in the report published on 6 November.",
+    "limit": "Admission of the action addresses formal requirements only. There has been no ruling on the merits and no finding that Flávio personally carried out the acts attributed to Eduardo and other supporters or obtained an electoral benefit.",
+    "events": [
+      {
+        "date": "2026-11-05",
+        "title": "AIJE admitted",
+        "text": "The Electoral Inspector General ordered the action to proceed; the allegations remain subject to investigation and defense."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Veja",
+        "date": "2026-11-06",
+        "title": "TSE opens three new electoral investigations into Flávio Bolsonaro",
+        "url": "https://veja.abril.com.br/brasil/tse-abre-tres-novas-investigacoes-eleitorais-contra-flavio-bolsonaro/",
+        "type": "press",
+        "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-06",
+        "title": "TSE opens three electoral actions against Flávio Bolsonaro",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/06/tse-abre-3-acoes-contra-flavio-por-milicias-filme-e-pressao-nos-eua.ghtm",
+        "type": "press",
+        "note": ""
+      }
+    ]
   }
 ]

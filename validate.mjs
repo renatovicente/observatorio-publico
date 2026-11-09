@@ -18,7 +18,7 @@ for(const r of data){
   assert.ok(r.sources.length&&r.events.length);
   for(const obj of [...r.sources,...r.events,{date:r.updated}]){
     assert.ok(/^\d{4}-\d{2}-\d{2}$/.test(obj.date),`${r.id}: data inválida`);
-    assert.ok(obj.date<='2026-11-02',`${r.id}: data posterior à pesquisa`);
+    assert.ok(obj.date<='2026-11-09',`${r.id}: data posterior à pesquisa`);
     assert.ok(!Number.isNaN(Date.parse(obj.date)));
   }
   for(const s of r.sources){assert.equal(new URL(s.url).protocol,'https:');assert.ok(s.publisher&&s.title);}
