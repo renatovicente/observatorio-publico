@@ -18,7 +18,7 @@ Após atualizar `main`, localize a execução de `pages.yml` cujo `head_sha` cor
 
 ## Execução semanal
 
-A tarefa agendada deve invocar `$atualizar-observatorio-flavio` ou carregar `skills/atualizar-observatorio-flavio/SKILL.md` de `main`, e indicar o repositório público como destino. Mantenha a pesquisa limitada ao recorte da skill e não altere a cadência ou crie outro agendamento durante a atualização. Uma execução sem novidades verificadas não exige commit vazio nem avanço das datas dos fatos. Relate mudanças relevantes, falhas ou necessidade de ação; preserve a preferência de notificações do usuário.
+A tarefa agendada deve invocar `$atualizar-observatorio-flavio` ou carregar `skills/atualizar-observatorio-flavio/SKILL.md` de `main`, indicar o repositório público como destino e revisar Flávio e Lula conjuntamente em cada ciclo. Use [weekly-automation.md](weekly-automation.md) para conferir ou corrigir o prompt da tarefa existente; atualizar arquivos no GitHub não salva automaticamente essa configuração hospedada. Mantenha a pesquisa limitada ao recorte pessoal da skill e não altere a cadência ou crie outro agendamento durante a atualização. Uma execução sem novidades verificadas não exige commit vazio nem avanço das datas dos fatos. Metadados de pesquisa só avançam após revisão efetiva; informe separadamente a cobertura de cada pessoa. Relate mudanças relevantes, falhas ou necessidade de ação; preserve a preferência de notificações do usuário.
 
 A confirmação de criação do agendamento só comprova que ele foi salvo. Não a apresente como uma atualização semanal já executada.
 

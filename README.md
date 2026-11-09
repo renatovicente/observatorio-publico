@@ -54,7 +54,9 @@ A skill contém uma tabela de transições processuais: aberturas e avanços atu
 
 ## Atualização semanal
 
-Uma tarefa no ChatGPT Cloud está programada para segundas-feiras às 9h no fuso `America/Sao_Paulo`, a partir de 09/11/2026, usando a skill deste repositório e a conexão GitHub. O prompt original dessa tarefa cobre Flávio Bolsonaro. A inclusão da aba de Lula não comprova que o prompt hospedado tenha sido ampliado; até sua alteração explícita, trate a atualização de Lula como sob demanda. A skill suporta ambos os dossiês e mantém as duas versões linguísticas em cada execução. O agendamento não altera as datas dos fatos nem garante novas informações em toda execução.
+Uma tarefa no ChatGPT Cloud está programada para segundas-feiras às 9h no fuso `America/Sao_Paulo`, desde 02/11/2026, usando a skill deste repositório e a conexão GitHub. Em 09/11/2026, o usuário determinou a revisão conjunta de **Flávio Bolsonaro e Lula em cada execução semanal**, nos dois idiomas. Esse é o escopo da skill e de `AGENTS.md`; o [prompt de referência](skills/atualizar-observatorio-flavio/references/weekly-automation.md) serve para alinhar a tarefa existente sem criar duplicata.
+
+A auditoria de 09/11 identificou publicações em 02/11 e 09/11 limitadas a Flávio e confirmou que o prompt hospedado citava apenas ele; os dados de Lula permaneciam na edição de 27/10. Em 09/11, o prompt da mesma tarefa foi corrigido para os dois dossiês e relido após o salvamento, preservando o agendamento existente. Essa correção de configuração não constitui nova pesquisa documental. Só avance a data de pesquisa de cada pessoa após revisão efetiva e relate o resultado de ambas, mesmo quando não houver novidades. O agendamento não altera as datas dos fatos nem garante novas informações em toda execução.
 
 ## Publicação no GitHub Pages
 

@@ -17,7 +17,7 @@ Preserve casos arquivados e decisões favoráveis ou reformadas nas fontes de ma
 
 Nunca transfira fatos ou desfechos entre pessoas ou entre procedimentos. A troca de aba deve separar fichas, contagens, filtros, cronologia, fontes e download. Preserve o filtro pessoal nos links PT/EN e nos links diretos. IDs novos de Lula começam por `lula-`; IDs existentes de Flávio não mudam.
 
-Uma atualização geral sem pessoa especificada cobre os dois dossiês. Uma execução ou agendamento cujo prompt nomeia somente Flávio continua limitada a Flávio; a presença de Lula no site não amplia automaticamente o agendamento. Não anuncie cobertura semanal de Lula sem verificar ou atualizar o prompt hospedado com autorização.
+Conforme a decisão do usuário de 09/11/2026, a manutenção semanal do Observatório deve revisar **Flávio Bolsonaro e Lula conjuntamente, no mesmo ciclo**, nos dois idiomas. O nome histórico desta skill não restringe a cobertura a Flávio. Uma correção pontual explicitamente solicitada para uma pessoa pode continuar limitada a ela, mas não conta como revisão semanal completa. Alinhe o prompt do agendamento existente ao escopo conjunto de [references/weekly-automation.md](references/weekly-automation.md); alterar esta skill não comprova que o prompt hospedado foi salvo. Não crie uma segunda automação para compensar uma configuração antiga.
 
 ## Identificar o projeto
 
@@ -94,7 +94,7 @@ As cores refletem **gravidade editorial**, não resultado processual: maior inte
 
 ## Reclassificar a cada execução semanal
 
-A cada execução autorizada, aplique os critérios atuais desta skill, inclusive o recorte visível e as cores por gravidade. Uma ficha não mantém sua visibilidade apenas porque apareceu na edição anterior. Respeite o alcance do prompt do agendamento: esta skill não altera sozinha quais pessoas estão incluídas nele.
+A cada execução semanal, revise os dois dossiês antes de publicar e aplique os critérios atuais desta skill, inclusive o recorte visível e as cores por gravidade. Uma ficha não mantém sua visibilidade apenas porque apareceu na edição anterior. Se o prompt hospedado ainda restringir a tarefa a Flávio, registre o conflito de configuração e corrija-o conforme a autorização do usuário para cobertura conjunta; não trate uma execução de uma só pessoa como manutenção semanal concluída.
 
 1. Pesquise novos andamentos dos registros visíveis e confirme a data e o alcance pessoal da decisão. Procure também novos procedimentos elegíveis e reaberturas formalmente deferidas de históricos; pedido de reabertura não basta.
 2. Compare o que aconteceu com a situação anterior. Atualize `status`, `role`, `state`, `summary`, `details`, `defense`, `limit`, eventos e fontes quando houver mudança sustentada. Use a data da movimentação/publicação substantiva em `updated`, não a data da execução em todas as fichas.
@@ -102,6 +102,8 @@ A cada execução autorizada, aplique os critérios atuais desta skill, inclusiv
 4. Revise `dist/case-status.mjs`, inclusive exceções por ID, para a ficha passar ao grupo correto. Revise a justificativa e a faixa de gravidade somente se o objeto/impacto potencial documentado mudar. Denúncia recebida, recurso ou condenação não aumentam a faixa automaticamente.
 5. Atualize a tradução correspondente e somente o hash do original revisado. Gere as quatro listas, valide paridade, elegibilidade, faixas e contagens. Confira no navegador as duas abas e os dois idiomas: nenhuma ficha encerrada deve aparecer em casos, busca, cronologia, biblioteca, link direto ou download. Inclua a revisão mobile abaixo, pois novos títulos, situações e resumos também podem afetar o layout.
 6. Publique fontes, traduções, hashes, classificação e dados gerados no mesmo commit. Confirme o workflow do commit e a versão pública. Relate objetivamente as entradas, saídas e mudanças de situação/faixa, sem chamar quantidade de fichas de quantidade de crimes. Não anuncie reclassificações ou publicação não verificadas.
+
+Ao concluir uma revisão semanal, informe separadamente para **cada pessoa** o período pesquisado, as fontes consultadas, os casos alterados ou a ausência de novidades e as limitações. Não conclua que Lula foi revisado porque o build gerou seus JSONs ou porque o deploy passou: esses passos validam e publicam os dados existentes, sem realizar pesquisa. Só avance `researchedAt` de uma pessoa após revisar efetivamente seu acervo; preserve as datas dos fatos (`updated`). Quando ambos forem revisados no mesmo ciclo, atualize seus metadados de pesquisa de forma coerente, inclusive se um deles não tiver novidades. Nunca iguale datas apenas para esconder a diferença. Se um dos dossiês ficar sem revisão, registre o bloqueio e não anuncie nem publique o ciclo como revisão semanal completa.
 
 | Movimentação confirmada | Classificação e exibição |
 | --- | --- |
