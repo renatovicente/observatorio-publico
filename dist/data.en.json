@@ -1331,5 +1331,47 @@
         "note": ""
       }
     ]
+  },
+  {
+    "id": "pet-17051-queixa",
+    "title": "Criminal petition docketed at the STF in November 2026",
+    "category": "Criminal",
+    "court": "STF",
+    "state": "pedido",
+    "status": "Petition docketed; admission not located",
+    "role": "Direct subject of a criminal petition",
+    "updated": "2026-11-05",
+    "identifier": "STF Pet 17.051 · 0189186-45.2026.1.00.0000",
+    "summary": "The STF portal records a criminal petition filed by Ricardo Bretanha Schmidt against Flávio Bolsonaro, classified as a criminal complaint or private prosecution and submitted to the Court’s Presidency.",
+    "details": "The initial petition was filed on 29 October, docketed on 3 November and recorded as submitted to the STF Presidency on 5 November. The public docket identifies Flávio as the respondent but does not disclose the factual basis of the allegation or a ruling admitting it.",
+    "defense": "The portal lists Flávio as having no counsel of record. No specific statement from his defense about the petition was found.",
+    "limit": "Docketing and submission to the Presidency do not amount to admission of a criminal complaint, opening of an investigation or a finding of wrongdoing. Without the petition’s contents or an admission ruling, the record remains a request and is excluded from the public display.",
+    "events": [
+      {
+        "date": "2026-10-29",
+        "title": "Petition filed",
+        "text": "The initial petition was electronically received by the STF."
+      },
+      {
+        "date": "2026-11-03",
+        "title": "Docketing",
+        "text": "The proceeding was assigned the Petition class and number 17.051."
+      },
+      {
+        "date": "2026-11-05",
+        "title": "Submitted to the Presidency",
+        "text": "The case was sent to the STF Presidency for analysis, with no admission ruling located."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "STF",
+        "date": "2026-11-05",
+        "title": "STF docket for Petition 17.051",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7739019",
+        "type": "official",
+        "note": "The docket identifies the parties, case class, subject and procedural events; it does not disclose the petition’s factual allegations."
+      }
+    ]
   }
 ]

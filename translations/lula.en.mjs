@@ -709,12 +709,12 @@ export default {
   "lula-mensagens-govbr-2026": {
     "title": "Official Gov.br and WhatsApp messages in 2026",
     "court": "Superior Electoral Court (TSE)",
-    "status": "Electoral investigation ongoing; message suspension denied",
+    "status": "AIJE admitted with an amended petition; merits pending",
     "role": "Respondent alongside Alckmin and Sidônio Palmeira",
-    "summary": "The TSE allowed an action examining alleged electoral use of government databases and official channels to proceed.",
-    "details": "Flávio Bolsonaro challenged messages about public benefits and services. In refusing suspension, the electoral inspector considered the request overly broad and the examined communications apparently informative, without requests for votes.",
-    "defense": "No specific defence response was found in the consulted sources.",
-    "limit": "Refusal of the injunction did not close the action. The messages were assessed preliminarily, without a final ruling on liability.",
+    "summary": "The TSE admitted the action and its amended petition concerning the alleged electoral use of government databases, Gov.br messages and the government’s communications structure.",
+    "details": "Flávio Bolsonaro challenges Gov.br messages about public benefits and services and attributes content approval to Secom. In October, the Electoral Inspector General denied broad interim measures, finding the communications examined apparently informational. On 5 November, he admitted the petition and its amendment, which added allegations about the Conexão Cidadã project, public funds, suppliers and new messages during the second round.",
+    "defense": "No specific defense statement about the 5 November ruling was found. The defense was still expected to have time to respond after service.",
+    "limit": "Admission of the action and amendment concerns formal requirements and does not establish truth, unlawfulness or responsibility. The earlier denial of interim measures did not close the AIJE, and any relationship with other actions will be examined during the proceedings.",
     "events": [
       {
         "title": "Action filed",
@@ -723,6 +723,10 @@ export default {
       {
         "title": "Investigation continues",
         "text": "Interim requests were denied and respondents were given time to submit their defence."
+      },
+      {
+        "title": "Petition and amendment admitted",
+        "text": "The Electoral Inspector General ordered the expanded subject matter to proceed, without ruling on the allegations."
       }
     ],
     "sources": [
@@ -733,6 +737,76 @@ export default {
       {
         "title": "Suspension refused; investigation proceeds",
         "note": "Report by Lavínia Kaucz."
+      },
+      {
+        "title": "TSE admits actions against Lula and Alckmin over alleged abuse of power",
+        "note": "Identifies admission of the action concerning the government communications structure and the inclusion of Sidônio Palmeira."
+      },
+      {
+        "title": "TSE records new electoral investigations into Lula",
+        "note": "Distinguishes the Secom action from the action filed by Novo and notes that only admissibility was assessed."
+      }
+    ]
+  },
+  "lula-medidas-beneficios-2026": {
+    "title": "AIJE on measures and benefits during the election year",
+    "court": "TSE",
+    "status": "AIJE admitted; merits pending",
+    "role": "Under investigation with Geraldo Alckmin",
+    "identifier": "AIJE 0603194-42.2026.6.00.0000",
+    "summary": "The TSE admitted a Novo party action investigating alleged abuse of political power through measures and decrees providing social and economic benefits in 2026.",
+    "details": "Novo attributes to Lula 35 normative acts issued between January and 16 October, including a Bolsa Família increase and fuel-related measures, and alleges that their concentration and cost had an electoral purpose. The Electoral Inspector General found the petition timely and based on specific facts, ordered service on Lula and Alckmin, and reserved requests for investigative measures until after their defenses.",
+    "defense": "No statement specific to this action by Lula or Alckmin was found. CNN reported that it was awaiting a response from the defense; in another case concerning Bolsa Família, the campaign argued that the change reflected inflation and continued a program authorized by law.",
+    "limit": "Admission addresses only the requirements for the action to proceed. There has been no ruling on abuse, improper purpose, loss of office or ineligibility. Arguments made in another action do not replace the defense specific to this AIJE.",
+    "events": [
+      {
+        "title": "AIJE admitted",
+        "text": "The Electoral Inspector General admitted the action and gave Lula and Alckmin five days to submit their defense."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Electoral Inspector General admits Novo action against Lula and Alckmin",
+        "note": "Confirms the parties, case number, subject matter, admission and limits of the ruling."
+      },
+      {
+        "title": "TSE accepts Novo action against Lula and Alckmin",
+        "note": "Records the allegations, defense context and lack of a case-specific response by publication time."
+      }
+    ]
+  },
+  "lula-votos-tebet-marina-2026": {
+    "title": "Request for votes for Simone Tebet and Marina Silva in 2026",
+    "court": "TRE-SP",
+    "status": "R$15,000 fine upheld; further appeal available",
+    "role": "Respondent; electoral fine",
+    "identifier": "RP 0600162-06.2026.6.26.0000",
+    "summary": "The TRE-SP upheld a R$15,000 fine imposed on Lula for premature electoral advertising in remarks requesting votes for Simone Tebet and Marina Silva before the permitted campaign period.",
+    "details": "The Missão party action challenged a 19 May speech broadcast on Lula’s official channel. The July ruling imposed the fine and ordered removal of the video. On 18 August, the TRE-SP unanimously upheld the finding of a violation and upheld the fine by majority. Simone Tebet and Marina Silva were not held liable.",
+    "defense": "Lula argued that the remarks were institutional, lacked electoral content and did not contain an explicit request for votes, and alternatively sought the minimum fine. The other respondents argued that they had no prior knowledge or participation.",
+    "limit": "This is an electoral sanction, not a criminal conviction. The sources record that a further appeal was available; no later TSE outcome or confirmation of a final judgment was found.",
+    "events": [
+      {
+        "title": "Fine imposed",
+        "text": "An individual ruling imposed a R$15,000 fine and ordered removal of the video."
+      },
+      {
+        "title": "Fine upheld by TRE-SP",
+        "text": "The court upheld the finding of premature advertising and the amount of the sanction; a further appeal remained available."
+      }
+    ],
+    "sources": [
+      {
+        "title": "TRE-SP fines Lula for premature electoral advertising",
+        "note": "Records the initial ruling, the defense and the possibility of appeal."
+      },
+      {
+        "title": "Appeal docket for RP 0600162-06.2026.6.26.0000",
+        "note": "Confirms the case number, parties, appellate class and hearing."
+      },
+      {
+        "title": "TRE-SP upholds fine against Lula over request for votes",
+        "note": "Report by Julia Gandra; records the panel outcome and the possibility of appeal."
       }
     ]
   }

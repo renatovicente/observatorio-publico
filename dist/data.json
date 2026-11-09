@@ -1331,5 +1331,47 @@
         "note": ""
       }
     ]
+  },
+  {
+    "id": "pet-17051-queixa",
+    "title": "Petição criminal autuada no STF em novembro de 2026",
+    "category": "Criminal",
+    "court": "STF",
+    "state": "pedido",
+    "status": "Petição autuada; admissão não localizada",
+    "role": "Alvo direto de petição criminal",
+    "updated": "2026-11-05",
+    "identifier": "STF Pet 17.051 · 0189186-45.2026.1.00.0000",
+    "summary": "O portal do STF registra petição criminal apresentada por Ricardo Bretanha Schmidt contra Flávio Bolsonaro, classificada como denúncia ou queixa e conclusa à Presidência.",
+    "details": "A petição inicial foi protocolada em 29 de outubro, autuada em 3 de novembro e registrada como conclusa à Presidência do STF em 5 de novembro. A consulta pública identifica Flávio como requerido, mas não expõe o objeto factual da acusação nem decisão de recebimento.",
+    "defense": "O portal registra Flávio sem representação nos autos. Não foi localizada manifestação específica de sua defesa sobre a petição.",
+    "limit": "Autuação e conclusão à Presidência não equivalem a recebimento de denúncia, abertura de investigação ou reconhecimento de irregularidade. Sem acesso ao teor da petição ou a decisão de admissão, a ficha permanece como pedido e fora da exibição pública.",
+    "events": [
+      {
+        "date": "2026-10-29",
+        "title": "Petição protocolada",
+        "text": "A petição inicial foi recebida eletronicamente pelo STF."
+      },
+      {
+        "date": "2026-11-03",
+        "title": "Autuação",
+        "text": "O processo recebeu a classe Petição e o número 17.051."
+      },
+      {
+        "date": "2026-11-05",
+        "title": "Conclusos à Presidência",
+        "text": "Os autos foram encaminhados para análise da Presidência do STF, sem decisão de admissão localizada."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "STF",
+        "date": "2026-11-05",
+        "title": "Consulta processual da Pet 17.051",
+        "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7739019",
+        "type": "official",
+        "note": "A consulta identifica partes, classe, assunto e andamentos; não exibe o teor factual da petição."
+      }
+    ]
   }
 ]

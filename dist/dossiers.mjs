@@ -13,7 +13,7 @@ export const dossiers = {
   },
   lula: {
     name:'Luiz Inácio Lula da Silva', heading:'<em>Lula.</em>',
-    files:{pt:'data.lula.json',en:'data.lula.en.json'}, researchedAt:'2026-10-27',
+    files:{pt:'data.lula.json',en:'data.lula.en.json'}, researchedAt:'2026-11-09',
     description:{
       pt:'Processos e investigações contra o próprio Lula em andamento ou com sanção vigente na última informação localizada.',
       en:'Proceedings and investigations against Lula himself that are ongoing or have a standing sanction in the latest information located.'

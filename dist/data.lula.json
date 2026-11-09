@@ -1075,14 +1075,14 @@
     "category": "Eleitoral",
     "court": "TSE",
     "state": "investigacao",
-    "status": "AIJE em curso; suspensão das mensagens negada",
+    "status": "AIJE recebida com aditamento; mérito pendente",
     "role": "Investigado com Alckmin e Sidônio Palmeira",
-    "updated": "2026-10-22",
+    "updated": "2026-11-05",
     "identifier": "AIJE 0603241-16.2026.6.00.0000",
-    "summary": "O TSE deu andamento à ação sobre alegado uso eleitoral de bases de dados e canais oficiais do governo.",
-    "details": "Flávio Bolsonaro questionou mensagens sobre benefícios e serviços públicos. Ao negar a suspensão, o corregedor considerou o pedido excessivamente amplo e as comunicações examinadas aparentemente informativas, sem pedido de voto.",
-    "defense": "Resposta específica da defesa não localizada nas fontes consultadas.",
-    "limit": "A negativa da liminar não encerrou a AIJE. O caráter informativo foi avaliado preliminarmente, sem julgamento final de responsabilidade.",
+    "summary": "O TSE recebeu a ação e seu aditamento sobre alegado uso eleitoral de bases de dados, mensagens Gov.br e estrutura de comunicação do governo.",
+    "details": "Flávio Bolsonaro questiona mensagens sobre benefícios e serviços públicos enviadas pelo Gov.br e atribui à Secom validação de conteúdo. Em outubro, o corregedor negou cautelares amplas por considerar as comunicações examinadas aparentemente informativas. Em 5 de novembro, recebeu a petição e o aditamento, que acrescentaram fatos sobre o projeto Conexão Cidadã, recursos públicos, fornecedores e novas mensagens no segundo turno.",
+    "defense": "Não foi localizada manifestação específica da defesa sobre a decisão de 5 de novembro. A defesa ainda teria prazo para responder após a notificação.",
+    "limit": "O recebimento da ação e do aditamento avalia requisitos formais e não confirma veracidade, ilicitude ou responsabilidade. A negativa cautelar anterior não encerrou a AIJE, e eventual relação com outras ações será examinada na instrução.",
     "events": [
       {
         "date": "2026-10-20",
@@ -1093,6 +1093,11 @@
         "date": "2026-10-22",
         "title": "Investigação prossegue",
         "text": "Cautelares foram negadas e investigados receberam prazo para defesa."
+      },
+      {
+        "date": "2026-11-05",
+        "title": "Petição e aditamento recebidos",
+        "text": "O corregedor determinou o processamento do objeto ampliado, sem julgamento das acusações."
       }
     ],
     "sources": [
@@ -1111,6 +1116,115 @@
         "url": "https://www.terra.com.br/noticias/brasil/politica/cueva-nega-pedido-de-flavio-para-suspender-mensagens-de-canais-oficiais-do-governo-federal,f366a217f2b135acb6de01149d77d0baz66y9qwf.html",
         "type": "press",
         "note": "Reportagem de Lavínia Kaucz."
+      },
+      {
+        "publisher": "SBT News",
+        "date": "2026-11-05",
+        "title": "TSE admite ações contra Lula e Alckmin por abuso de poder",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/tse-admite-acoes-contra-lula-alckmin-por-abuso-de-poder",
+        "type": "press",
+        "note": "Identifica o recebimento da ação sobre estrutura de comunicação e a inclusão de Sidônio Palmeira."
+      },
+      {
+        "publisher": "Veja",
+        "date": "2026-11-06",
+        "title": "TSE registra novas investigações eleitorais contra Lula",
+        "url": "https://veja.abril.com.br/brasil/tse-ja-abriu-14-investigacoes-eleitorais-contra-lula/",
+        "type": "press",
+        "note": "Distingue a ação sobre a Secom da ação apresentada pelo Novo e ressalva a análise apenas de admissibilidade."
+      }
+    ]
+  },
+  {
+    "id": "lula-medidas-beneficios-2026",
+    "title": "AIJE sobre medidas e benefícios no ano eleitoral",
+    "category": "Eleitoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "AIJE admitida; mérito pendente",
+    "role": "Investigado com Geraldo Alckmin",
+    "updated": "2026-11-05",
+    "identifier": "AIJE 0603194-42.2026.6.00.0000",
+    "summary": "O TSE admitiu ação do Partido Novo que apura suposto abuso de poder político na edição de medidas e decretos com benefícios sociais e econômicos em 2026.",
+    "details": "O Novo atribui a Lula a edição de 35 atos normativos entre janeiro e 16 de outubro, incluindo reajuste do Bolsa Família e medidas sobre combustíveis, e sustenta que a concentração e o custo das iniciativas teriam finalidade eleitoral. O corregedor considerou a petição tempestiva e com fatos determinados, notificou Lula e Alckmin e reservou a análise de diligências para depois das defesas.",
+    "defense": "Não foi localizada manifestação específica de Lula ou Alckmin sobre esta ação. A CNN registrou que aguardava retorno da defesa; em outra demanda sobre o Bolsa Família, a campanha sustentou reposição inflacionária e continuidade de programa autorizado em lei.",
+    "limit": "A admissão examina apenas os requisitos para tramitação. Não houve julgamento sobre abuso, desvio de finalidade, cassação ou inelegibilidade. Argumentos apresentados em outra ação não substituem a defesa específica desta AIJE.",
+    "events": [
+      {
+        "date": "2026-11-05",
+        "title": "AIJE admitida",
+        "text": "O corregedor-geral eleitoral recebeu a ação e deu cinco dias para Lula e Alckmin apresentarem defesa."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE",
+        "date": "2026-11-05",
+        "title": "Corregedor-geral admite ação do Novo contra Lula e Alckmin",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/corregedor-geral-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-do-poder-politico-nas-eleicoes",
+        "type": "official",
+        "note": "Confirma partes, número, objeto, recebimento e limites da decisão."
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2026-11-05",
+        "title": "TSE aceita ação do Novo contra Lula e Alckmin",
+        "url": "https://www.cnnbrasil.com.br/politica/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico/",
+        "type": "press",
+        "note": "Registra alegações, contexto de defesa e ausência de resposta específica até a publicação."
+      }
+    ]
+  },
+  {
+    "id": "lula-votos-tebet-marina-2026",
+    "title": "Pedido de votos para Simone Tebet e Marina Silva em 2026",
+    "category": "Eleitoral",
+    "court": "TRE-SP",
+    "state": "decisao",
+    "status": "Multa de R$ 15 mil mantida; recurso cabível",
+    "role": "Representado; multa eleitoral",
+    "updated": "2026-08-18",
+    "identifier": "RP 0600162-06.2026.6.26.0000",
+    "summary": "O TRE-SP manteve multa de R$ 15 mil aplicada a Lula por propaganda eleitoral antecipada em fala que pediu votos para Simone Tebet e Marina Silva antes do período permitido.",
+    "details": "A representação do Partido Missão questionou discurso de 19 de maio transmitido no canal oficial de Lula. A decisão de julho determinou multa e retirada do vídeo. Em 18 de agosto, o TRE-SP manteve o reconhecimento da irregularidade por unanimidade e a multa por maioria. Simone Tebet e Marina Silva não foram responsabilizadas.",
+    "defense": "Lula sustentou que a manifestação tinha caráter institucional, sem conteúdo eleitoral ou pedido explícito de votos, e pediu subsidiariamente a multa mínima. As demais representadas alegaram ausência de conhecimento prévio ou participação.",
+    "limit": "Trata-se de sanção eleitoral, não criminal. As fontes registram possibilidade de recurso; não foi localizado desfecho posterior no TSE nem confirmação de trânsito em julgado.",
+    "events": [
+      {
+        "date": "2026-07-28",
+        "title": "Multa aplicada",
+        "text": "Decisão individual fixou multa de R$ 15 mil e determinou a retirada do vídeo."
+      },
+      {
+        "date": "2026-08-18",
+        "title": "Multa mantida pelo TRE-SP",
+        "text": "O tribunal manteve a conclusão sobre propaganda antecipada e o valor da sanção; ainda cabia recurso."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "Agência Brasil",
+        "date": "2026-07-29",
+        "title": "TRE-SP multa Lula por propaganda eleitoral antecipada",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso",
+        "type": "press",
+        "note": "Registra a decisão inicial, a defesa e a possibilidade de recurso."
+      },
+      {
+        "publisher": "TRE-SP",
+        "date": "2026-08-18",
+        "title": "Pauta do recurso na RP 0600162-06.2026.6.26.0000",
+        "url": "https://www.tre-sp.jus.br/servicos-judiciais/sessoes-de-julgamento/pauta-da-sessao-de-18-de-agosto-de-2026",
+        "type": "official",
+        "note": "Confirma número, partes, classe recursal e sessão de julgamento."
+      },
+      {
+        "publisher": "Metrópoles",
+        "date": "2026-08-18",
+        "title": "TRE-SP mantém multa contra Lula por pedido de voto",
+        "url": "https://www.metropoles.com/sao-paulo/tre-sp-mantem-multa-contra-lula-por-pedido-de-voto-para-tebet-e-marina",
+        "type": "press",
+        "note": "Reportagem de Julia Gandra; registra o resultado colegiado e a possibilidade de recurso."
       }
     ]
   }

@@ -153,5 +153,19 @@ export default {
       "pt": "Objeto: alegado uso eleitoral de recursos e dados públicos; apuração ainda sem mérito final.",
       "en": "Subject: alleged electoral use of public resources and data; no final merits ruling."
     }
+  },
+  "lula-medidas-beneficios-2026": {
+    "band": "institutional",
+    "reason": {
+      "pt": "A AIJE apura possível uso eleitoral de atos governamentais e benefícios públicos. O recebimento não comprova abuso nem desvio de finalidade.",
+      "en": "The AIJE examines possible electoral use of government acts and public benefits. Admission does not establish abuse or improper purpose."
+    }
+  },
+  "lula-votos-tebet-marina-2026": {
+    "band": "institutional",
+    "reason": {
+      "pt": "A sanção trata de pedido de votos em evento oficial antes do período permitido. É multa eleitoral, sem natureza criminal.",
+      "en": "The sanction concerns a request for votes at an official event before the permitted campaign period. It is an electoral fine, not a criminal judgment."
+    }
   }
 };
