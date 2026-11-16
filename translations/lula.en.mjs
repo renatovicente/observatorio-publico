@@ -809,5 +809,40 @@ export default {
         "note": "Report by Julia Gandra; records the panel outcome and the possibility of appeal."
       }
     ]
+  },
+  "lula-contas-campanha-2026": {
+    "title": "2026 presidential campaign accounts",
+    "court": "TSE",
+    "status": "Technical review ongoing after requests for information",
+    "role": "Under review in the examination of his ticket’s accounts",
+    "identifier": "Electoral Accounts Proceeding 0601984-53.2026.6.00.0000",
+    "summary": "The TSE ordered Lula and Alckmin to provide documents and explanations concerning pending issues identified in the review of their 2026 campaign accounts; the ticket responded and requested approval of the accounts.",
+    "details": "On 12 November, Dias Toffoli accepted a recommendation from the court’s technical unit and gave the candidates three days to address indications of subcontracting and the operational capacity of suppliers paid with public campaign funds, airline tickets, reimbursements for transport and data concerning paid digital promotion. On 13 November, the defense submitted documents. The proceeding returned to technical review, with no ruling approving or rejecting the accounts.",
+    "defense": "The ticket said the pending issues were formal, that the information remained reliable and transparent and that it had acted in good faith. It said R$44 million was supported by 151 documents and that another R$3.56 million concerned 84 simple-shipment invoices that did not create new expenditure, and requested approval of the accounts.",
+    "limit": "The request for information does not establish wrongdoing, does not amount to rejection of the accounts and is not a criminal conviction. The defense response and amounts were found in identified journalism; the Asepa technical report in full was not located in an open source.",
+    "events": [
+      {
+        "title": "Additional information ordered",
+        "text": "The rapporteur ordered Lula and Alckmin to provide documents and explanations within three days."
+      },
+      {
+        "title": "Defense responds",
+        "text": "The ticket submitted documents, described the pending issues as formal and requested approval of the accounts."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Order in the Lula-Alckmin campaign accounts proceeding",
+        "note": "Copy of the TSE order reproduced by identified journalism; confirms the parties, case number, requests for information, deadline and continuation of the technical review."
+      },
+      {
+        "title": "Toffoli requests explanations concerning campaign accounts",
+        "note": "Report on the technical questions and the limits of the procedural order."
+      },
+      {
+        "title": "Lula-Alckmin ticket submits response to the TSE",
+        "note": "Records the defense arguments, documents submitted and request for approval."
+      }
+    ]
   }
 };

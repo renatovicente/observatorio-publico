@@ -5,14 +5,14 @@
     "category": "Criminal",
     "court": "MPRJ · TJ-RJ · STJ · STF",
     "state": "encerrado",
-    "status": "Criminal complaint rejected in 2022",
+    "status": "Criminal complaint rejected; new reopening request denied",
     "role": "Named in a criminal complaint; complaint not accepted by the court",
-    "updated": "2026-09-29",
+    "updated": "2026-11-14",
     "identifier": "PIC MPRJ 2018.00452470 · STF HC 201.965 / Rcl 41.910",
-    "summary": "Rio de Janeiro prosecutors accused Flávio of participating in the diversion of staff salaries. The criminal complaint was rejected after evidence was invalidated; a request to reopen the case was reported in September 2026.",
-    "details": "The case concerns suspected embezzlement and money laundering, including real estate transactions and a chocolate shop. In 2021, the STJ and STF invalidated evidence. The TJ-RJ rejected the criminal complaint for lack of sufficient grounds in 2022. Prosecutors’ appeals were denied in 2025. On 29 September 2026, Folha reported a new request by Grupo Prerrogativas, filed by Rui Falcão, based on bank safe deposit box records.",
+    "summary": "Rio de Janeiro prosecutors accused Flávio of participating in the diversion of staff salaries. The criminal complaint was rejected after evidence was invalidated; in November 2026, prosecutors denied a new reopening request based on bank safe deposit box records.",
+    "details": "The case concerns suspected embezzlement and money laundering, including real estate transactions and a chocolate shop. In 2021, the STJ and STF invalidated evidence. The TJ-RJ rejected the criminal complaint for lack of sufficient grounds in 2022. Prosecutors’ appeals were denied in 2025. In September 2026, Grupo Prerrogativas and Rui Falcão sought to resume the case based on bank safe deposit box records; on 14 November, Folha reported that the MPRJ denied the request because the proposed link between the safe deposit box and cash used to buy properties had not been demonstrated.",
     "defense": "Flávio denies wrongdoing. His defense considered the case closed after the complaint was rejected and described the 2025 ruling as technically sound and correct.",
-    "limit": "The September request does not establish that the case was reopened. The rejected complaint was not adjudicated on its merits. The properties and shop form part of this factual context and are not counted here as separate crimes.",
+    "limit": "The denial of reopening keeps the case outside the public display. The rejected complaint was not adjudicated on its merits. The November decision was found in identified journalism, not in a publicly available MPRJ document. The properties and shop form part of this factual context and are not counted as separate crimes.",
     "events": [
       {
         "date": "2021-11-30",
@@ -32,7 +32,12 @@
       {
         "date": "2026-09-29",
         "title": "New request reported",
-        "text": "A petition sought to resume the case; approval was not confirmed."
+        "text": "A petition sought to resume the case based on bank safe deposit box records."
+      },
+      {
+        "date": "2026-11-14",
+        "title": "Reopening denied",
+        "text": "According to Folha, the MPRJ considered the proposed link between the safe deposit box and property purchases speculative and unsupported by verifiable evidence."
       }
     ],
     "sources": [
@@ -67,6 +72,14 @@
         "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/prerrogativas-pede-que-mp-rj-reabra-caso-das-rachadinhas-para-investigar-flavio-bolsonaro.shtml",
         "type": "press",
         "note": ""
+      },
+      {
+        "publisher": "Folha de S.Paulo",
+        "date": "2026-11-14",
+        "title": "MPRJ denies new reopening request",
+        "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-publico-nega-pedido-para-reabrir-caso-da-rachadinha-contra-flavio-bolsonaro.shtml",
+        "type": "press",
+        "note": "Report by Gabriela Echenique; no MPRJ document was found in an open source."
       }
     ]
   },
@@ -76,14 +89,14 @@
     "category": "Criminal",
     "court": "STF · Federal Police",
     "state": "investigacao",
-    "status": "Investigation confirmed",
+    "status": "Sealed inquiry remains in progress",
     "role": "Under investigation",
-    "updated": "2026-10-16",
+    "updated": "2026-11-11",
     "identifier": "Petition linked to Inquiry 5.026",
-    "summary": "The Federal Police are investigating possible irregularities in Daniel Vorcaro’s financing of the Jair Bolsonaro biopic. Flávio’s inclusion as a subject of investigation was authorized in July 2026.",
-    "details": "The investigation concerns suspected money laundering, unlawful transfers of funds abroad and corruption. André Mendonça’s authorization, supported by the Prosecutor General’s Office (PGR), became public in September. In October, the Federal Police requested another 90 days for analysis and international cooperation.",
+    "summary": "The Federal Police are investigating possible irregularities in Daniel Vorcaro’s financing of the Jair Bolsonaro biopic. Flávio’s inclusion as a subject of investigation was authorized in July 2026; in November, the sealed inquiry was again confirmed as ongoing.",
+    "details": "The investigation concerns suspected money laundering, unlawful transfers of funds abroad and corruption. André Mendonça’s authorization, supported by the Prosecutor General’s Office (PGR), became public in September. In October, the Federal Police requested another 90 days for analysis and international cooperation. On 11 November, Aos Fatos reported after checking with the STF and Federal Police that the inquiry had not been closed and remained ongoing under seal.",
     "defense": "Flávio acknowledged seeking funding for the film and says the financing was private and lawful.",
-    "limit": "A request for an extension does not mean it was granted. No conviction was located. The separate examination of parliamentary budget allocations related to the production company should not automatically be conflated with this inquiry.",
+    "limit": "Confirmation that the inquiry remains ongoing does not establish whether the extension request was formally granted or disclose steps protected by the seal. No conviction was located. The separate examination of parliamentary budget allocations related to the production company should not automatically be conflated with this inquiry.",
     "events": [
       {
         "date": "2026-07-22",
@@ -94,6 +107,11 @@
         "date": "2026-10-15",
         "title": "Extension requested",
         "text": "The Federal Police requested 90 additional days, according to a report published on 16 October."
+      },
+      {
+        "date": "2026-11-11",
+        "title": "Continuation confirmed",
+        "text": "A fact-check recorded that the inquiry remained ongoing and under seal."
       }
     ],
     "sources": [
@@ -120,6 +138,14 @@
         "url": "https://www1.folha.uol.com.br/poder/2026/10/pf-pede-a-mendonca-mais-90-dias-para-inquerito-sobre-dark-horse-e-cita-analise-de-remessas-ao-exterior.shtml",
         "type": "press",
         "note": ""
+      },
+      {
+        "publisher": "Aos Fatos",
+        "date": "2026-11-11",
+        "title": "Inquiry into transfers for Dark Horse remains ongoing",
+        "url": "https://www.aosfatos.org/noticias/pf-investigacao-repasses-vorcaro-dark-horse/",
+        "type": "press",
+        "note": "Fact-check by Luiza Vezzá; the STF and Federal Police confirmed the seal and absence of closure."
       }
     ]
   },
@@ -129,14 +155,14 @@
     "category": "Criminal",
     "court": "STF · Federal Police",
     "state": "investigacao",
-    "status": "Investigation with interim restrictions; alleged breach under inquiry",
+    "status": "Ongoing investigation; passport appeal scheduled",
     "role": "Under investigation",
-    "updated": "2026-10-30",
+    "updated": "2026-11-13",
     "identifier": "STF Petition 16,877/DF",
-    "summary": "An inquiry separate from Dark Horse is examining suspected money laundering and unlawful transfers abroad. The Federal Police confirmed travel and contact restrictions and said it is investigating the circumstances of the alleged breach of the orders.",
-    "details": "The inquiry arose from an investigation into payments and betting in Rio Grande do Sul. According to news reports, the Federal Police are examining whether Flávio held an economic interest in companies linked to Willer Tomaz. On 28 October, the Federal Police said his Brazilian passports had been cancelled, that any foreign travel documents had not been surrendered by the deadline and that no official departure through a migration checkpoint had been found. The agency began investigating the circumstances of the alleged breach.",
-    "defense": "Flávio denies holding a joint account, having an ownership stake or committing wrongdoing. In petitions filed on 30 October, his defense sought Alexandre de Moraes’s removal as rapporteur, reassignment to André Mendonça and revocation of the restrictions; it argued that friendship explained travel and contacts and that Santander had not confirmed Flávio’s participation in the account mentioned. Willer Tomaz also denies wrongdoing.",
-    "limit": "The interim restrictions and the inquiry into their alleged breach do not constitute a conviction. The Federal Police clarified that restrictions on travel documents alone do not make a person a fugitive or authorize arrest. The case is sealed, and no ruling on the defense requests was located. Tomaz’s involvement in the INSS case does not automatically make Flávio a subject of that investigation.",
+    "summary": "An inquiry separate from Dark Horse is examining suspected money laundering and unlawful transfers abroad. The Federal Police confirmed travel and contact restrictions and said it is investigating the circumstances of the alleged breach; the STF scheduled the defense appeal concerning the passport for 20–30 November.",
+    "details": "The inquiry arose from an investigation into payments and betting in Rio Grande do Sul. According to news reports, the Federal Police are examining whether Flávio held an economic interest in companies linked to Willer Tomaz. On 28 October, the Federal Police said his Brazilian passports had been cancelled, that any foreign travel documents had not been surrendered by the deadline and that no official departure through a migration checkpoint had been found. On 13 November, Cármen Lúcia scheduled the First Panel’s virtual hearing of the appeal against the seizure and cancellation of the passport for 20–30 November.",
+    "defense": "Flávio denies holding a joint account, having an ownership stake or committing wrongdoing. His defense sought Alexandre de Moraes’s removal as rapporteur, reassignment to André Mendonça and revocation of the restrictions; it argued that friendship explained travel and contacts, that Santander had not confirmed Flávio’s participation in the account mentioned and that the restrictions lacked justification. Willer Tomaz also denies wrongdoing.",
+    "limit": "Scheduling the appeal does not anticipate its outcome or close the inquiry. The interim restrictions and the inquiry into their alleged breach do not constitute a conviction. The Federal Police clarified that restrictions on travel documents alone do not make a person a fugitive or authorize arrest. The case is sealed. Tomaz’s involvement in the INSS case does not automatically make Flávio a subject of that investigation.",
     "events": [
       {
         "date": "2026-10-16",
@@ -157,6 +183,11 @@
         "date": "2026-10-30",
         "title": "Defense challenges rapporteur and restrictions",
         "text": "The defense sought Moraes’s removal, reassignment of the case and revocation of the restrictions."
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Appeal scheduled",
+        "text": "The First Panel scheduled the virtual hearing of the appeal concerning the seizure and cancellation of the passport for 20–30 November."
       }
     ],
     "sources": [
@@ -207,6 +238,14 @@
         "url": "https://www1.folha.uol.com.br/poder/2026/11/defesa-de-flavio-bolsonaro-pede-que-moraes-seja-impedido-de-relatar-inquerito-e-quer-troca-por-mendonca.shtml",
         "type": "press",
         "note": ""
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-13",
+        "title": "STF schedules Flávio’s appeal concerning his passport",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/13/carmen-marca-julgamento-de-recurso-de-flavio-sobre-passaporte.ghtm",
+        "type": "press",
+        "note": "Report by Malu Vaz; virtual hearing scheduled for 20–30 November."
       }
     ]
   },

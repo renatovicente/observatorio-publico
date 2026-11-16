@@ -18,7 +18,7 @@ for(const r of data){
   assert.ok(r.sources.length&&r.events.length);
   for(const obj of [...r.sources,...r.events,{date:r.updated}]){
     assert.ok(/^\d{4}-\d{2}-\d{2}$/.test(obj.date),`${r.id}: data inválida`);
-    assert.ok(obj.date<='2026-11-09',`${r.id}: data posterior à pesquisa`);
+    assert.ok(obj.date<='2026-11-16',`${r.id}: data posterior à pesquisa`);
     assert.ok(!Number.isNaN(Date.parse(obj.date)));
   }
   for(const s of r.sources){assert.equal(new URL(s.url).protocol,'https:');assert.ok(s.publisher&&s.title);}
@@ -45,7 +45,7 @@ for(const [i,translated] of english.entries()){
   assert.ok(translated.sources.every(s=>s.title));
 }
 if(person==='flavio'){
-assert.equal(english.find(r=>r.id==='rachadinhas-alerj').status,'Criminal complaint rejected in 2022');
+assert.equal(english.find(r=>r.id==='rachadinhas-alerj').status,'Criminal complaint rejected; new reopening request denied');
 assert.equal(english.find(r=>r.id==='chico-buarque').status,'Civil judgment reversed on appeal');
 assert.ok(english.filter(r=>r.id.startsWith('etica-pce')).every(r=>r.status==='Petition; admission not confirmed'));
 }
@@ -71,7 +71,7 @@ assert.deepEqual(countedCases(data).map(r=>r.id),countedCases(english).map(r=>r.
 const ordered=[...data].sort(compareCaseSeverity);
 assert.deepEqual(ordered.map(r=>r.id),[...english].sort(compareCaseSeverity).map(r=>r.id),'Ordem de gravidade deve ser idêntica nos dois idiomas');
 if(person==='flavio'){
-assert.deepEqual(new Set(ordered.slice(0,3).map(r=>r.id)),new Set(['willer-tomaz','pgr-pagamentos-escritorio','dark-horse']));
+assert.deepEqual(new Set(ordered.slice(0,3).map(r=>r.id)),new Set(['rachadinhas-alerj','willer-tomaz','dark-horse']));
 assert.equal(ordered.at(-1).id,'furna-acareacao');
 // Closing a case does not rewrite the impact of its subject or imply guilt.
 assert.ok(compareCaseSeverity(data.find(r=>r.id==='rachadinhas-alerj'),data.find(r=>r.id==='santini-contas'))<0);

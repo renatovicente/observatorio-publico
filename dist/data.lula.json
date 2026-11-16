@@ -1227,5 +1227,58 @@
         "note": "Reportagem de Julia Gandra; registra o resultado colegiado e a possibilidade de recurso."
       }
     ]
+  },
+  {
+    "id": "lula-contas-campanha-2026",
+    "title": "Prestação de contas da campanha presidencial de 2026",
+    "category": "Eleitoral",
+    "court": "TSE",
+    "state": "investigacao",
+    "status": "Exame técnico em curso após diligências",
+    "role": "Investigado no exame das contas da própria chapa",
+    "updated": "2026-11-14",
+    "identifier": "Prestação de Contas Eleitorais 0601984-53.2026.6.00.0000",
+    "summary": "O TSE determinou que Lula e Alckmin apresentassem documentos e esclarecimentos sobre pendências identificadas no exame das contas da campanha de 2026; a chapa respondeu e pediu a aprovação das contas.",
+    "details": "Em 12 de novembro, Dias Toffoli acolheu recomendação da área técnica e deu três dias para esclarecer indícios de subcontratação e capacidade operacional de fornecedores pagos com Fundo Eleitoral, passagens aéreas, ressarcimentos por transporte e dados sobre impulsionamento digital. Em 13 de novembro, a defesa apresentou documentos. O processo voltou à análise técnica, sem decisão sobre aprovação ou rejeição das contas.",
+    "defense": "A chapa afirmou que as pendências são formais, que os dados permanecem confiáveis e transparentes e que agiu de boa-fé. Disse que R$ 44 milhões estão amparados por 151 documentos e que outros R$ 3,56 milhões correspondem a notas de simples remessa, sem nova despesa, e pediu a homologação das contas.",
+    "limit": "A diligência não comprova irregularidade, não representa rejeição das contas e não é condenação criminal. A resposta da defesa e os valores foram localizados em jornalismo identificado; o relatório técnico completo da Asepa não foi localizado em fonte aberta.",
+    "events": [
+      {
+        "date": "2026-11-12",
+        "title": "Diligências determinadas",
+        "text": "O relator intimou Lula e Alckmin a apresentar documentos e justificativas em três dias."
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Defesa responde",
+        "text": "A chapa entregou documentos, classificou as pendências como formais e pediu a aprovação das contas."
+      }
+    ],
+    "sources": [
+      {
+        "publisher": "TSE / Congresso em Foco",
+        "date": "2026-11-12",
+        "title": "Despacho na prestação de contas da campanha Lula-Alckmin",
+        "url": "https://static.congressoemfoco.com.br/2026/11/06/attachment/2026/11/13/418b0f_despacho.pdf",
+        "type": "press",
+        "note": "Cópia do despacho do TSE reproduzida por veículo identificado; confirma partes, número, diligências, prazo e continuidade do exame técnico."
+      },
+      {
+        "publisher": "CNN Brasil",
+        "date": "2026-11-13",
+        "title": "Toffoli pede esclarecimentos sobre contas da campanha",
+        "url": "https://www.cnnbrasil.com.br/politica/toffoli-da-3-dias-para-lula-explicar-inconsistencias-em-contas-da-campanha/",
+        "type": "press",
+        "note": "Reportagem sobre os apontamentos técnicos e os limites da diligência."
+      },
+      {
+        "publisher": "UOL",
+        "date": "2026-11-14",
+        "title": "Chapa Lula-Alckmin apresenta resposta ao TSE",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/14/campanha-de-lula-e-alckmin-diz-ao-tse-que-pendencias-sao-formais.ghtm",
+        "type": "press",
+        "note": "Registra os argumentos da defesa, os documentos apresentados e o pedido de homologação."
+      }
+    ]
   }
 ]

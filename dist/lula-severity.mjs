@@ -167,5 +167,12 @@ export default {
       "pt": "A sanção trata de pedido de votos em evento oficial antes do período permitido. É multa eleitoral, sem natureza criminal.",
       "en": "The sanction concerns a request for votes at an official event before the permitted campaign period. It is an electoral fine, not a criminal judgment."
     }
+  },
+  "lula-contas-campanha-2026": {
+    "band": "financial",
+    "reason": {
+      "pt": "Objeto: exame da aplicação e comprovação de recursos de campanha, inclusive Fundo Eleitoral, sem conclusão técnica ou julgamento de irregularidade.",
+      "en": "Subject: review of the use and documentation of campaign funds, including public campaign funds, with no final technical finding or ruling of wrongdoing."
+    }
   }
 };
